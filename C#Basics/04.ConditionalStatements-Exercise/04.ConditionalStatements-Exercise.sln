@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SumSeconds", "01.SumSeconds\01.SumSeconds.csproj", "{2F92D783-46AC-4E51-B044-3BBBDE1F6926}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SumSeconds", "01.SumSeconds\01.SumSeconds.csproj", "{2F92D783-46AC-4E51-B044-3BBBDE1F6926}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BonusScore", "02.BonusScore\02.BonusScore.csproj", "{2BA402F2-FA66-4791-8708-7E071E2510CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BonusScore", "02.BonusScore\02.BonusScore.csproj", "{2BA402F2-FA66-4791-8708-7E071E2510CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Time+15Minutes", "03.Time+15Minutes\03.Time+15Minutes.csproj", "{55E54FF5-807F-482B-9EA0-2ADBF3CA26F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Time+15Minutes", "03.Time+15Minutes\03.Time+15Minutes.csproj", "{55E54FF5-807F-482B-9EA0-2ADBF3CA26F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Godzillavs.Kong", "05.Godzillavs.Kong\05.Godzillavs.Kong.csproj", "{DD1F7859-880F-4EA6-B78E-3B7E421DD6EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.WorldSwimmingRecord", "06.WorldSwimmingRecord\06.WorldSwimmingRecord.csproj", "{6DA785E7-5EE2-48B0-B496-F03234CAE159}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{55E54FF5-807F-482B-9EA0-2ADBF3CA26F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55E54FF5-807F-482B-9EA0-2ADBF3CA26F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55E54FF5-807F-482B-9EA0-2ADBF3CA26F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1F7859-880F-4EA6-B78E-3B7E421DD6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1F7859-880F-4EA6-B78E-3B7E421DD6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1F7859-880F-4EA6-B78E-3B7E421DD6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1F7859-880F-4EA6-B78E-3B7E421DD6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA785E7-5EE2-48B0-B496-F03234CAE159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA785E7-5EE2-48B0-B496-F03234CAE159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA785E7-5EE2-48B0-B496-F03234CAE159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA785E7-5EE2-48B0-B496-F03234CAE159}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

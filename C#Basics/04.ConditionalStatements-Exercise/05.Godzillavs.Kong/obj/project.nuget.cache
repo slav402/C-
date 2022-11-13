@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r/LiTITXft12bEG1FoviRCU9xgC9H26cqmLDAr4YEb8pk0CAueLhShbdWGh7c/G4wL8V5Ctxmhxj01ne+N5liA==",
+  "dgSpecHash": "5d2+d45XdUSFJYtUs7+vMo2WChiY5vXh/TKvOSBS68TId+tfhw80BMrXdYZ2/GnmFLChHbWX5HgslN73ABvFWA==",
   "success": true,
-  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\01.SumSeconds\\01.SumSeconds.csproj",
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\05.Godzillavs.Kong\\05.Godzillavs.Kong.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",

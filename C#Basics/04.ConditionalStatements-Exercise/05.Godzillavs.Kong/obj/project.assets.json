@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\03.Time+15Minutes\\03.Time+15Minutes.csproj",
-      "projectName": "03.Time+15Minutes",
-      "projectPath": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\03.Time+15Minutes\\03.Time+15Minutes.csproj",
+      "projectUniqueName": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\05.Godzillavs.Kong\\05.Godzillavs.Kong.csproj",
+      "projectName": "05.Godzillavs.Kong",
+      "projectPath": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\05.Godzillavs.Kong\\05.Godzillavs.Kong.csproj",
       "packagesPath": "C:\\Users\\Salvi Zekov\\.nuget\\packages\\",
-      "outputPath": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\03.Time+15Minutes\\obj\\",
+      "outputPath": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\05.Godzillavs.Kong\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

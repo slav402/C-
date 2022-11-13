@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Salvi Zekov\\source\\repos\\C#\\C# Basics\\04.ConditionalStatements-Exercise\\02.BonusScore\\02.BonusScore.csproj",
+      "projectUniqueName": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\02.BonusScore\\02.BonusScore.csproj",
       "projectName": "02.BonusScore",
-      "projectPath": "C:\\Users\\Salvi Zekov\\source\\repos\\C#\\C# Basics\\04.ConditionalStatements-Exercise\\02.BonusScore\\02.BonusScore.csproj",
+      "projectPath": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\02.BonusScore\\02.BonusScore.csproj",
       "packagesPath": "C:\\Users\\Salvi Zekov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Salvi Zekov\\source\\repos\\C#\\C# Basics\\04.ConditionalStatements-Exercise\\02.BonusScore\\obj\\",
+      "outputPath": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\02.BonusScore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
