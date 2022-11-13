@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DZuMKDxveFK5HswSuMQKjOYUlwgalWgmDsAp6tJ7UZ/cTTXqUdR8e1CDmSN/aR7L6n5QnLvnQ4aK6JAZTQoR0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Salvi Zekov\\source\\repos\\C#\\C# Basics\\04.ConditionalStatements-Exercise\\01.SumSeconds\\01.SumSeconds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

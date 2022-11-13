@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6nFzkdmmVOqXNsBNGsZYUWoKnGKXIfed+k4XAnu9BQ4htIUjzjMsVHDd1t6WfYpQy3w6zeSLhQ6Xp5K7Ynmbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Salvi Zekov\\source\\repos\\C#\\C# Basics\\04.ConditionalStatements-Exercise\\02.BonusScore\\02.BonusScore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
