@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YlYtr/nDrPUo/NGkEEoL4gI5rmCnb0wvc2n6plrpdbMfNocfDfXAK13PFVd7b0H8RfjKXB/o2sJXrOzB+q1p7Q==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\04.ToyShop\\04.ToyShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

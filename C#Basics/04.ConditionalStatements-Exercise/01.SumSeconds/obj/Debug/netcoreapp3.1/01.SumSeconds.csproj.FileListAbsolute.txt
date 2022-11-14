@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.exe
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.deps.json
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.runtimeconfig.json
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.dll
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.pdb
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.dll
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.pdb
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.genruntimeconfig.cache
