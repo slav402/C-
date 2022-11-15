@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.exe
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.deps.json
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.runtimeconfig.json
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.dll
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\bin\Debug\netcoreapp3.1\07.Shopping.pdb
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.dll
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.pdb
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\07.Shopping\obj\Debug\netcoreapp3.1\07.Shopping.genruntimeconfig.cache

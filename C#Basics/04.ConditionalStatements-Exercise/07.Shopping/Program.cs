@@ -19,13 +19,18 @@ namespace _07.Shopping
 
             double bill = vCardsPrice + sumCPU + sumRAM;
 
+            if (numberVideoCards > numberCPU)
+            {
+                bill *= 0.85;
+            }
+
             if (bill <= budget)
             {
-                Console.WriteLine($"You have {budget - bill} leva left!");
+                Console.WriteLine($"You have {(budget - bill):F2} leva left!");
             }
             else
             {
-                Console.WriteLine($"Not enough money! You need {bill - budget} leva more!");
+                Console.WriteLine($"Not enough money! You need {(bill - budget):F2} leva more!");
             }
 
         }
