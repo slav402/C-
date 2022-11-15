@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/96jpUVFXJ6x7D/QF6Ck3RfRdmIog/rr0berFn+dPFPWUE32H2xKuJCzn0z3eZyYS4ad+53FUDj5qBSObJWkWg==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\07.Shopping\\07.Shopping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
