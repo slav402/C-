@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\bin\Debug\netcoreapp3.1\08.LunchBreak.exe
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\bin\Debug\netcoreapp3.1\08.LunchBreak.deps.json
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\bin\Debug\netcoreapp3.1\08.LunchBreak.runtimeconfig.json
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\bin\Debug\netcoreapp3.1\08.LunchBreak.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\bin\Debug\netcoreapp3.1\08.LunchBreak.dll
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\bin\Debug\netcoreapp3.1\08.LunchBreak.pdb
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.dll
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.pdb
+C:\repo\CSharp\C#Basics\04.ConditionalStatements-Exercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JvdS/9R+rBM2/n4WUDTnCJkS2EP2+ns0jJUHrU1mgOOcYj999NBCxjZazYw0+rpnworJ96RMg+WXFRK2XL6kYw==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\04.ConditionalStatements-Exercise\\08.LunchBreak\\08.LunchBreak.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
