@@ -1,0 +1,13 @@
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.exe
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.deps.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.runtimeconfig.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.genruntimeconfig.cache

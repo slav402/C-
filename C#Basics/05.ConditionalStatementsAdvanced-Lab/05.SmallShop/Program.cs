@@ -51,7 +51,7 @@ namespace _05.SmallShop
                 }
             }
 
-            Console.WriteLine($"{(count * price)}");
+            Console.WriteLine((count * price));
         }
     }
 }
