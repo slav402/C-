@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OhX2mqIk7kS8XI1g/QwBveP67RssHoEAsYMySOWHhIKHTheT2A86fxa+AS4h8LyftLzc546r/rCIZ+sFuBNkfQ==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\05.ConditionalStatementsAdvanced-Lab\\04.PersonalTitles\\04.PersonalTitles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

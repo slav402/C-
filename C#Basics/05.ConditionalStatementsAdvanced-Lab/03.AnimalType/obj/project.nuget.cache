@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SdY41292babCdPQ1NIuMWzNbUIDd5T+7nr+wQXE/d+9OHjQrok5syKD2g2h1Rd7bLNxQqpUnjkLnjznoNqHIDQ==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\05.ConditionalStatementsAdvanced-Lab\\03.AnimalType\\03.AnimalType.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\bin\Debug\netcoreapp3.1\01.DayOfWeek.exe
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\bin\Debug\netcoreapp3.1\01.DayOfWeek.deps.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\bin\Debug\netcoreapp3.1\01.DayOfWeek.runtimeconfig.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\bin\Debug\netcoreapp3.1\01.DayOfWeek.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\bin\Debug\netcoreapp3.1\01.DayOfWeek.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\bin\Debug\netcoreapp3.1\01.DayOfWeek.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\netcoreapp3.1\01.DayOfWeek.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\netcoreapp3.1\01.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\netcoreapp3.1\01.DayOfWeek.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\netcoreapp3.1\01.DayOfWeek.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\netcoreapp3.1\01.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\netcoreapp3.1\01.DayOfWeek.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\netcoreapp3.1\01.DayOfWeek.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\netcoreapp3.1\01.DayOfWeek.genruntimeconfig.cache

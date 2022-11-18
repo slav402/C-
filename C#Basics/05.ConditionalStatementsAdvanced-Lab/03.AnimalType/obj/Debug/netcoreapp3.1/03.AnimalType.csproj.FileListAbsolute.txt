@@ -1,0 +1,13 @@
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.exe
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.deps.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.runtimeconfig.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.genruntimeconfig.cache

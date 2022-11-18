@@ -1,0 +1,13 @@
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.exe
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.deps.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.runtimeconfig.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\bin\Debug\netcoreapp3.1\04.PersonalTitles.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\netcoreapp3.1\04.PersonalTitles.genruntimeconfig.cache
