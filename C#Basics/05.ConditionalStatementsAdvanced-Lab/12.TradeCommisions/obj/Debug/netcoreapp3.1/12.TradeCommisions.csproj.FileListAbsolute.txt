@@ -1,0 +1,13 @@
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\bin\Debug\netcoreapp3.1\12.TradeCommisions.exe
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\bin\Debug\netcoreapp3.1\12.TradeCommisions.deps.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\bin\Debug\netcoreapp3.1\12.TradeCommisions.runtimeconfig.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\bin\Debug\netcoreapp3.1\12.TradeCommisions.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\bin\Debug\netcoreapp3.1\12.TradeCommisions.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\bin\Debug\netcoreapp3.1\12.TradeCommisions.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\obj\Debug\netcoreapp3.1\12.TradeCommisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\obj\Debug\netcoreapp3.1\12.TradeCommisions.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\obj\Debug\netcoreapp3.1\12.TradeCommisions.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\obj\Debug\netcoreapp3.1\12.TradeCommisions.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\obj\Debug\netcoreapp3.1\12.TradeCommisions.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\obj\Debug\netcoreapp3.1\12.TradeCommisions.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\12.TradeCommisions\obj\Debug\netcoreapp3.1\12.TradeCommisions.genruntimeconfig.cache
