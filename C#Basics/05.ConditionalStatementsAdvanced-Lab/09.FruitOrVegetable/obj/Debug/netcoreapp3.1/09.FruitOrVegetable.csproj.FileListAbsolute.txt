@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.exe
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.deps.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.runtimeconfig.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\netcoreapp3.1\09.FruitOrVegetable.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\netcoreapp3.1\09.FruitOrVegetable.genruntimeconfig.cache
