@@ -1,0 +1,13 @@
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.exe
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.deps.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.runtimeconfig.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.genruntimeconfig.cache
