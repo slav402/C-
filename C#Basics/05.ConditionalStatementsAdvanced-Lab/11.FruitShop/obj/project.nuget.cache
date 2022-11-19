@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lJ6CEXr+DBPyh6oCvuN01rbjO1aebwij7N+y6gFrbItvL6ovsTAjNkVA1XVUX9hFGZWmFc1fWr01aaz7jkIJfA==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\05.ConditionalStatementsAdvanced-Lab\\11.FruitShop\\11.FruitShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.exe
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.deps.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.runtimeconfig.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.dll
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.pdb
+C:\repo\CSharp\C#Basics\05.ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.genruntimeconfig.cache
