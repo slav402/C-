@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QDynVPyTtXLSegig2AlDt/ZA8jT8bgTBjcf/Sv+VP7XYtjqhEYys5DXmjEn/2naiUrbT3wX4G2UK+Az9tpWxOw==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\06.ConditionalStatementsAdvanced-Exercise\\07.HotelRoom\\07.HotelRoom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HvK/1bX7QzQDaNZit55Ya6KeHl2jLR/HWgQcgG5nZM/VNBDe/WOOcd6ptsE18O+cXqS/h7D5Tt2NfixL/V+v6Q==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\06.ConditionalStatementsAdvanced-Exercise\\05.Journey\\05.Journey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
