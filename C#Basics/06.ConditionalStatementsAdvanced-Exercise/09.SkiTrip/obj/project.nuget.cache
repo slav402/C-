@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3qvtKEKYm3wumLrCgZNY6bdlokkibSbqe1RE59xrCqiGtYWHhC/3d9FT1KeHBYbKDaSy7FPazZjAqpN9y3vjJg==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\06.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\09.SkiTrip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

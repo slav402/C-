@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.HotelRoom", "07.HotelRoo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.OnTimeForTheExam", "08.OnTimeForTheExam\08.OnTimeForTheExam.csproj", "{21056B37-07DD-4290-8673-7BC08C2AFAF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SkiTrip", "09.SkiTrip\09.SkiTrip.csproj", "{8D0AAD03-C195-4757-ABD2-02296E6AB034}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{21056B37-07DD-4290-8673-7BC08C2AFAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21056B37-07DD-4290-8673-7BC08C2AFAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21056B37-07DD-4290-8673-7BC08C2AFAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0AAD03-C195-4757-ABD2-02296E6AB034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0AAD03-C195-4757-ABD2-02296E6AB034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0AAD03-C195-4757-ABD2-02296E6AB034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0AAD03-C195-4757-ABD2-02296E6AB034}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
