@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m8qOGwHrbX115ho7WW83HtS2o0Gw6w0DSteM47OTrZIX+XdqDIY3e0e/ej72O4CKaqWnPt54j7Yqn/d97xPcvA==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\06.ConditionalStatementsAdvanced-Exercise\\08.OnTimeForTheExam\\08.OnTimeForTheExam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
