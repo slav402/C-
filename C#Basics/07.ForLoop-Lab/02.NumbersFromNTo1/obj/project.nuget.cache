@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5LpDj176f0ErezNRfitC/nWHr/IMYWyU6SkKZS9HTfSzjzjAfHeuoRWjSp9ThOge+0jUBNvVP/5UeVZsJVVOnw==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\07.ForLoop-Lab\\02.NumbersFromNTo1\\02.NumbersFromNTo1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

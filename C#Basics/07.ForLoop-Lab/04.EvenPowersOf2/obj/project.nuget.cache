@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L6g88mu93r6UoSNC606IE96yd8qGw2mQ/4EjSoChb2qAFdeVjESUAT4LMpZbOKgamPJO1WZCytutkgiUUnpKcA==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\07.ForLoop-Lab\\04.EvenPowersOf2\\04.EvenPowersOf2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
