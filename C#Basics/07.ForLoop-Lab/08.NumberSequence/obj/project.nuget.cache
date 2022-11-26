@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CKKRBWG7uSRUd2b/pdrM9NoVO+ybh9/oh9q+QbeeKpgRxMIAXy3ptmwhn5Cs8FJOFjwMmltnOXIZ791wHwzF9w==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\07.ForLoop-Lab\\08.NumberSequence\\08.NumberSequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

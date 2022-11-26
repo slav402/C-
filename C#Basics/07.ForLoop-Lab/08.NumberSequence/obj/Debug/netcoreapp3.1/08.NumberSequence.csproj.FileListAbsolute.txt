@@ -1,0 +1,13 @@
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.exe
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.deps.json
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.runtimeconfig.json
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.dll
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.pdb
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.dll
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.pdb
+C:\repo\CSharp\C#Basics\07.ForLoop-Lab\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.genruntimeconfig.cache
