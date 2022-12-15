@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZY5bo4gwBOgzWflYmh5gY4emJDGsUbxTYBkqAbysE/vzqQi9bk+KUsTzxmbT35vZDF9PjHmWqJskqFjQ2Y4oQ==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\08.ForLoop-Exercise\\01.NumbersEndingIn7\\01.NumbersEndingIn7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
