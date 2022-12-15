@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "quBfrFNm1rPYtLrGxWQe6JTta7bvvhxNk51d61B6gYNDAPOQdNAxab4iZ3zqsnoJQM0JoWQ9oa6ZSETpReVzAA==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\08.ForLoop-Exercise\\08.ForLoop-Exercise\\03.Histogram\\03.Histogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

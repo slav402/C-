@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.exe
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.deps.json
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.runtimeconfig.json
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.dll
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.pdb
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.dll
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.pdb
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.genruntimeconfig.cache

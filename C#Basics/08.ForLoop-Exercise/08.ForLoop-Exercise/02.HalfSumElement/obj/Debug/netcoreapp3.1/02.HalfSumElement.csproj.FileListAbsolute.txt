@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.exe
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.deps.json
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.runtimeconfig.json
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.dll
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.pdb
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.dll
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.pdb
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.ForLoop-Exercise\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.genruntimeconfig.cache
