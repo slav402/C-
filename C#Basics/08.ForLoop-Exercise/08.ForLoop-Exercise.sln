@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.HalfSumElement", "02.Hal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Histogram", "03.Histogram\03.Histogram.csproj", "{971A2455-D6F9-481F-B431-1AAC9247AE4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Salary", "05.Salary\05.Salary.csproj", "{75E9FD2C-C316-4C5F-AD0F-A36174820265}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Salary", "05.Salary\05.Salary.csproj", "{75E9FD2C-C316-4C5F-AD0F-A36174820265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CleverLily", "04.CleverLily\04.CleverLily.csproj", "{FF7DDB42-300B-4370-ADB2-C9F2E05E2AC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{75E9FD2C-C316-4C5F-AD0F-A36174820265}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75E9FD2C-C316-4C5F-AD0F-A36174820265}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75E9FD2C-C316-4C5F-AD0F-A36174820265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7DDB42-300B-4370-ADB2-C9F2E05E2AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7DDB42-300B-4370-ADB2-C9F2E05E2AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7DDB42-300B-4370-ADB2-C9F2E05E2AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7DDB42-300B-4370-ADB2-C9F2E05E2AC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

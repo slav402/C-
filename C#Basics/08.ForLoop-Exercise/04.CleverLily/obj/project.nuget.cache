@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o3jD83yxRhNhBFFHtTBUj1a07RkJsNx1uu18QTuY3mg2ihSbeJd2p1IU5WF7Q8qnbxlOvHZt+PLJ4dnYJUfVWQ==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\08.ForLoop-Exercise\\04.CleverLily\\04.CleverLily.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
