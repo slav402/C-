@@ -30,7 +30,7 @@ namespace _04.CleverLily
 
             if (money < priceOfWashingMashine)
             {
-                Console.WriteLine($"No! {priceOfWashingMashine - money}");
+                Console.WriteLine($"No! {(priceOfWashingMashine - money):f2}");
             }
             else
             {
