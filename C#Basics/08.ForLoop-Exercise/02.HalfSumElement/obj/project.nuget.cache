@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yl1OL+CEkdypjjRwS2+eB4ZGdZqDpJ4HfMsTf77Pu8eQGs8yaV7bcN+/7sqmLt0+6xC/uzH+XrtytHlOz5PcYg==",
+  "dgSpecHash": "sTEydANzoo2ewpYE8S5UgRJ28dgf2BwoZhieFMm44non32BzJvCl9zbgHtNcgf3Rf0e66LAb/5umSeVFyOWmnA==",
   "success": true,
   "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\08.ForLoop-Exercise\\02.HalfSumElement\\02.HalfSumElement.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

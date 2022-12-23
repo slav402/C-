@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "staj9lBc02+Z/CpKCjNJixCqBiS18+hUmS8NMHL44SCSpBG7JEbJQDD3lGahOfy8XFZ+cfHGjp0aiP3H2TUJ5w==",
+  "dgSpecHash": "Se9pOBXgNXYvF4uNo+kdOfECyZp+nGwwL1LJ6oJHBq/25H8ZVz+wLr/2PDR36pMr4jS/BY2yhXDpB1TkIlzPHA==",
   "success": true,
   "projectFilePath": "C:\\repo\\CSharp\\C#Basics\\08.ForLoop-Exercise\\05.Salary\\05.Salary.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Salvi Zekov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
