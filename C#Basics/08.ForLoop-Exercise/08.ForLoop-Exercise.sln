@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Oscars", "06.Oscars\06.O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.TrekkingMania", "07.TrekkingMania\07.TrekkingMania.csproj", "{CD48A8DF-4ABF-4A38-B58F-2A2038ED3A79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.TennisRanklist", "08.TennisRanklist\08.TennisRanklist.csproj", "{222866C8-682C-4A3B-829C-61D54F18CF99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CD48A8DF-4ABF-4A38-B58F-2A2038ED3A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD48A8DF-4ABF-4A38-B58F-2A2038ED3A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD48A8DF-4ABF-4A38-B58F-2A2038ED3A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222866C8-682C-4A3B-829C-61D54F18CF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222866C8-682C-4A3B-829C-61D54F18CF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222866C8-682C-4A3B-829C-61D54F18CF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222866C8-682C-4A3B-829C-61D54F18CF99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

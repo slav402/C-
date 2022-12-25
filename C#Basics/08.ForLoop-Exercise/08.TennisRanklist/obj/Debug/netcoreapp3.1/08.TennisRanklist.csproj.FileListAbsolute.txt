@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.exe
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.deps.json
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.runtimeconfig.json
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.dll
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.pdb
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.dll
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.pdb
+C:\repo\CSharp\C#Basics\08.ForLoop-Exercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.genruntimeconfig.cache
