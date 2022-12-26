@@ -33,7 +33,7 @@ namespace _08.TennisRanklist
 
             Console.WriteLine($"Final points: {points}");
             Console.WriteLine($"Average points: {(points - startPoints)/n}");
-            Console.WriteLine($"{(double)countsOfWins / (double)n}%");
+            Console.WriteLine($"{((double)countsOfWins / (double)n * 100):f2}%");
         }
     }
 }

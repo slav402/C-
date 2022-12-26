@@ -21,14 +21,11 @@ namespace _06.Oscars
                 if (points > neededPoints)
                 {
                     Console.WriteLine($"Congratulations, {name} got a nominee for leading role with {points:f1}!");
-                    break;
+                    return;
                 }
             }
 
-            if (points <= neededPoints)
-            {
-                Console.WriteLine($"Sorry, {name} you need {(neededPoints-points):f1} more!");
-            }
+            Console.WriteLine($"Sorry, {name} you need {(neededPoints - points):f1} more!");
         }
     }
 }
