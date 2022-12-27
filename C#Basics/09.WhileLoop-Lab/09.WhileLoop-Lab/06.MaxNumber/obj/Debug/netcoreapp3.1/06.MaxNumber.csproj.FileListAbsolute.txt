@@ -1,0 +1,13 @@
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.exe
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.deps.json
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.json
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.dll
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.pdb
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.dll
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.pdb
+C:\repo\CSharp\C#Basics\09.WhileLoop-Lab\09.WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.genruntimeconfig.cache
