@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.exe
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.deps.json
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.runtimeconfig.json
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.dll
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.pdb
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.dll
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.pdb
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.genruntimeconfig.cache
