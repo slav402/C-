@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.exe
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.deps.json
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.json
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.dll
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.pdb
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.dll
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.pdb
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.genruntimeconfig.cache

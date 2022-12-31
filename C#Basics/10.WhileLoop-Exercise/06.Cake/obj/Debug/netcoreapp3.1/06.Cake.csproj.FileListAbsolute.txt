@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.exe
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.deps.json
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.json
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.dll
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.pdb
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.dll
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.pdb
+C:\repo\CSharp\C#Basics\10.WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.genruntimeconfig.cache
