@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.exe
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.deps.json
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.runtimeconfig.json
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.dll
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.pdb
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.dll
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.pdb
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.genruntimeconfig.cache

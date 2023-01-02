@@ -1,0 +1,13 @@
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.exe
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.deps.json
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.runtimeconfig.json
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.dll
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.pdb
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.dll
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.pdb
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.exe
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.deps.json
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.runtimeconfig.json
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.dll
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.pdb
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.dll
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.pdb
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.genruntimeconfig.cache
