@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repo\\CSharp\\C#Basics\\11.NestedLoops-Lab\\07.Traveling\\05.Traveling.csproj",
+      "projectUniqueName": "C:\\repo\\CSharp\\C#Basics\\11.NestedLoops-Lab\\05.Traveling\\05.Traveling.csproj",
       "projectName": "05.Traveling",
-      "projectPath": "C:\\repo\\CSharp\\C#Basics\\11.NestedLoops-Lab\\07.Traveling\\05.Traveling.csproj",
+      "projectPath": "C:\\repo\\CSharp\\C#Basics\\11.NestedLoops-Lab\\05.Traveling\\05.Traveling.csproj",
       "packagesPath": "C:\\Users\\Salvi Zekov\\.nuget\\packages\\",
-      "outputPath": "C:\\repo\\CSharp\\C#Basics\\11.NestedLoops-Lab\\07.Traveling\\obj\\",
+      "outputPath": "C:\\repo\\CSharp\\C#Basics\\11.NestedLoops-Lab\\05.Traveling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

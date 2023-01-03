@@ -10,11 +10,11 @@ namespace _07.Traveling
 
             while (destination != "End")
             {
-                int priceOfDestination = int.Parse(Console.ReadLine());
+                double priceOfDestination = double.Parse(Console.ReadLine());
 
                 while (priceOfDestination > 0)
                 {
-                    priceOfDestination -= int.Parse(Console.ReadLine());
+                    priceOfDestination -= double.Parse(Console.ReadLine());
                 }
 
                 Console.WriteLine($"Going to {destination}!");
