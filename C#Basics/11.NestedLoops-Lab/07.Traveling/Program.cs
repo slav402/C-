@@ -6,7 +6,20 @@ namespace _07.Traveling
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string destination = Console.ReadLine();
+
+            while (destination != "End")
+            {
+                int priceOfDestination = int.Parse(Console.ReadLine());
+
+                while (priceOfDestination > 0)
+                {
+                    priceOfDestination -= int.Parse(Console.ReadLine());
+                }
+
+                Console.WriteLine($"Going to {destination}!");
+                destination = Console.ReadLine();
+            }
         }
     }
 }

@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Combinations", "03.Combi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SumOfTwoNumbers", "04.SumOfTwoNumbers\04.SumOfTwoNumbers.csproj", "{78F8F8FF-B30B-40D0-8564-35E4807E2AB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Traveling", "07.Traveling\07.Traveling.csproj", "{CEC4C43C-D2EA-4DAF-910F-0294EBB5BCA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Traveling", "07.Traveling\05.Traveling.csproj", "{CEC4C43C-D2EA-4DAF-910F-0294EBB5BCA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
