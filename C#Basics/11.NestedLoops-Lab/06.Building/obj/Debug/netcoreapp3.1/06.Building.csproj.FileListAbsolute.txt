@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.exe
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.deps.json
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.runtimeconfig.json
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.dll
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.pdb
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.dll
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.pdb
+C:\repo\CSharp\C#Basics\11.NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.genruntimeconfig.cache
