@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.exe
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.deps.json
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.runtimeconfig.json
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.runtimeconfig.dev.json
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.dll
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.pdb
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.AssemblyInfo.cs
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.dll
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.pdb
+C:\repo\CSharp\C#Basics\12.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.genruntimeconfig.cache

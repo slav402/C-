@@ -2,53 +2,51 @@
 
 public class Program
 {
-	public static void Main()
-	{
+    public static void Main()
+    {
 
-		int primeSum = 0;
-		int notPrimeSumm = 0;
+        int primeSum = 0;
+        int notPrimeSumm = 0;
 
-		while (true)
-		{
-			string input = Console.ReadLine();
+        string input = Console.ReadLine();
 
-			if (input == "stop")
-			{
-				break;
-			}
+        while (input != "stop")
+        {
+            int currentNum = int.Parse(input);
 
-			int entringNum = int.Parse(input);
+            if (currentNum < 0)
+            {
+                Console.WriteLine("Number is negative.");
+                input = Console.ReadLine();
+                continue;
+            }
 
-			if (entringNum < 0)
-			{
-				Console.WriteLine("Number is negative.");
+            bool isPrime = true;
 
-			}
-			else
-			{
-				bool isPrime = true;
+            for (int i = 2; i <= Math.Sqrt(currentNum); i++)
+            {
+                if (currentNum % i == 0)
+                {
+                    isPrime = false;
+                    break;
+                }
+            }
 
-				for (int i = 2; i <= (int)Math.Sqrt(entringNum); i++)
-				{
-					if (entringNum % i == 0)
-					{
-						isPrime = false;
-						break;
-					}
-				}
-				if (isPrime)
-				{
-					primeSum += entringNum;
-				}
-				else
-				{
-					notPrimeSumm += entringNum;
-				}
-			}
-		}
+            if (isPrime)
+            {
+                primeSum += currentNum;
+            }
+            else
+            {
+                notPrimeSumm += currentNum;
+            }
 
-		Console.WriteLine("Sum of all prime numbers is: {0}", primeSum);
-		Console.WriteLine("Sum of all non prime numbers is: {0}", notPrimeSumm);
 
-	}
+            input = Console.ReadLine();
+        }
+
+        Console.WriteLine("Sum of all prime numbers is: {0}", primeSum);
+        Console.WriteLine("Sum of all non prime numbers is: {0}", notPrimeSumm);
+
+    }
 }
