@@ -21,18 +21,7 @@ public class Program
                 continue;
             }
 
-            bool isPrime = true;
-
-            for (int i = 2; i <= Math.Sqrt(currentNum); i++)
-            {
-                if (currentNum % i == 0)
-                {
-                    isPrime = false;
-                    break;
-                }
-            }
-
-            if (isPrime)
+            if (IsPrime(currentNum))
             {
                 primeSum += currentNum;
             }
@@ -41,12 +30,24 @@ public class Program
                 notPrimeSumm += currentNum;
             }
 
-
             input = Console.ReadLine();
         }
 
         Console.WriteLine("Sum of all prime numbers is: {0}", primeSum);
         Console.WriteLine("Sum of all non prime numbers is: {0}", notPrimeSumm);
 
+    }
+
+    private static bool IsPrime(int currentNum)
+    {
+        for (int i = 2; i <= Math.Sqrt(currentNum); i++)
+        {
+            if (currentNum % i == 0)
+            {
+                return false;
+            }
+        }
+
+        return true;
     }
 }
