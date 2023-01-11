@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ConvertMetersToKilometer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PoundsToDollars", "02.PoundsToDollars\02.PoundsToDollars.csproj", "{56FA3740-6A84-46C4-9390-D1064F633AEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExactSumОfRealNumbers", "03.ExactSumОfRealNumbers\03.ExactSumОfRealNumbers.csproj", "{322E69DF-04CE-45FF-9DCE-8F39EDF26165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SpecialNumbers", "05.SpecialNumbers\05.SpecialNumbers.csproj", "{D1B6942A-AE7A-48F2-8297-492A4F6B733B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{56FA3740-6A84-46C4-9390-D1064F633AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56FA3740-6A84-46C4-9390-D1064F633AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56FA3740-6A84-46C4-9390-D1064F633AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322E69DF-04CE-45FF-9DCE-8F39EDF26165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322E69DF-04CE-45FF-9DCE-8F39EDF26165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322E69DF-04CE-45FF-9DCE-8F39EDF26165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322E69DF-04CE-45FF-9DCE-8F39EDF26165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B6942A-AE7A-48F2-8297-492A4F6B733B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B6942A-AE7A-48F2-8297-492A4F6B733B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B6942A-AE7A-48F2-8297-492A4F6B733B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B6942A-AE7A-48F2-8297-492A4F6B733B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
