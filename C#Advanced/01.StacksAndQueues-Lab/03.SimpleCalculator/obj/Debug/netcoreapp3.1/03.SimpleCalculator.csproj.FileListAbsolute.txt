@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.exe
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.deps.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.dll
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.pdb
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.dll
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.pdb
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.genruntimeconfig.cache
