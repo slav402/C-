@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\bin\Debug\netcoreapp3.1\01.ReverseOfString.exe
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\bin\Debug\netcoreapp3.1\01.ReverseOfString.deps.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\bin\Debug\netcoreapp3.1\01.ReverseOfString.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\bin\Debug\netcoreapp3.1\01.ReverseOfString.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\bin\Debug\netcoreapp3.1\01.ReverseOfString.dll
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\bin\Debug\netcoreapp3.1\01.ReverseOfString.pdb
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\obj\Debug\netcoreapp3.1\01.ReverseOfString.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\obj\Debug\netcoreapp3.1\01.ReverseOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\obj\Debug\netcoreapp3.1\01.ReverseOfString.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\obj\Debug\netcoreapp3.1\01.ReverseOfString.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\obj\Debug\netcoreapp3.1\01.ReverseOfString.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\obj\Debug\netcoreapp3.1\01.ReverseOfString.dll
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\obj\Debug\netcoreapp3.1\01.ReverseOfString.pdb
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\01.ReverseOfString\obj\Debug\netcoreapp3.1\01.ReverseOfString.genruntimeconfig.cache
