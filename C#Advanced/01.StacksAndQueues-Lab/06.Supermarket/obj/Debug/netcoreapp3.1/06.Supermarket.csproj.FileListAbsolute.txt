@@ -1,0 +1,13 @@
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\bin\Debug\netcoreapp3.1\06.Supermarket.exe
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\bin\Debug\netcoreapp3.1\06.Supermarket.deps.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\bin\Debug\netcoreapp3.1\06.Supermarket.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\bin\Debug\netcoreapp3.1\06.Supermarket.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\bin\Debug\netcoreapp3.1\06.Supermarket.dll
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\bin\Debug\netcoreapp3.1\06.Supermarket.pdb
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\netcoreapp3.1\06.Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\netcoreapp3.1\06.Supermarket.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\netcoreapp3.1\06.Supermarket.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\netcoreapp3.1\06.Supermarket.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\netcoreapp3.1\06.Supermarket.dll
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\netcoreapp3.1\06.Supermarket.pdb
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\06.Supermarket\obj\Debug\netcoreapp3.1\06.Supermarket.genruntimeconfig.cache

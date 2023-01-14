@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\bin\Debug\netcoreapp3.1\05.PrintEvenNumber.exe
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\bin\Debug\netcoreapp3.1\05.PrintEvenNumber.deps.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\bin\Debug\netcoreapp3.1\05.PrintEvenNumber.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\bin\Debug\netcoreapp3.1\05.PrintEvenNumber.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\bin\Debug\netcoreapp3.1\05.PrintEvenNumber.dll
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\bin\Debug\netcoreapp3.1\05.PrintEvenNumber.pdb
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\obj\Debug\netcoreapp3.1\05.PrintEvenNumber.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\obj\Debug\netcoreapp3.1\05.PrintEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\obj\Debug\netcoreapp3.1\05.PrintEvenNumber.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\obj\Debug\netcoreapp3.1\05.PrintEvenNumber.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\obj\Debug\netcoreapp3.1\05.PrintEvenNumber.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\obj\Debug\netcoreapp3.1\05.PrintEvenNumber.dll
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\obj\Debug\netcoreapp3.1\05.PrintEvenNumber.pdb
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\05.PrintEvenNumber\obj\Debug\netcoreapp3.1\05.PrintEvenNumber.genruntimeconfig.cache

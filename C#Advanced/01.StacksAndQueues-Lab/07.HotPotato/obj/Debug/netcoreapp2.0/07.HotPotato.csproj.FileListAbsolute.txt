@@ -1,0 +1,13 @@
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\bin\Debug\netcoreapp2.0\07.HotPotato.deps.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\bin\Debug\netcoreapp2.0\07.HotPotato.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\bin\Debug\netcoreapp2.0\07.HotPotato.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\bin\Debug\netcoreapp2.0\07.HotPotato.dll
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\bin\Debug\netcoreapp2.0\07.HotPotato.pdb
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\obj\Debug\netcoreapp2.0\07.HotPotato.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\obj\Debug\netcoreapp2.0\07.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\obj\Debug\netcoreapp2.0\07.HotPotato.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\obj\Debug\netcoreapp2.0\07.HotPotato.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\obj\Debug\netcoreapp2.0\07.HotPotato.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\obj\Debug\netcoreapp2.0\07.HotPotato.dll
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\obj\Debug\netcoreapp2.0\07.HotPotato.pdb
+C:\repo\CSharp\C#Advanced\01.StacksAndQueues-Lab\07.HotPotato\obj\Debug\netcoreapp2.0\07.HotPotato.genruntimeconfig.cache
