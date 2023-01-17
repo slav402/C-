@@ -54,7 +54,7 @@ namespace _06.CinemaTicket
             Console.WriteLine($"Total tickets: {tottalTickests}");
             Console.WriteLine($"{(student / tottalTickests * 100):f2}% student tickets.");
             Console.WriteLine($"{(standard / tottalTickests * 100):f2}% standard tickets.");
-            Console.WriteLine($"{(kid / tottalTickests * 100):f2}% kid tickets.");
+            Console.WriteLine($"{(kid / tottalTickests * 100):f2}% kids tickets.");
         }
     }
 }

@@ -30,7 +30,6 @@ namespace _06.Building
                             Console.Write($"A{i}{j} ");
                         }
                     }
-
                     Console.WriteLine();
                 }
             }
