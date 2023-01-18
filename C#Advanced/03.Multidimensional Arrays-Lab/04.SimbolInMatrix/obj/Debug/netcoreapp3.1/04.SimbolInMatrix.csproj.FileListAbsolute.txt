@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\bin\Debug\netcoreapp3.1\04.SimbolInMatrix.exe
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\bin\Debug\netcoreapp3.1\04.SimbolInMatrix.deps.json
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\bin\Debug\netcoreapp3.1\04.SimbolInMatrix.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\bin\Debug\netcoreapp3.1\04.SimbolInMatrix.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\bin\Debug\netcoreapp3.1\04.SimbolInMatrix.dll
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\bin\Debug\netcoreapp3.1\04.SimbolInMatrix.pdb
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\obj\Debug\netcoreapp3.1\04.SimbolInMatrix.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\obj\Debug\netcoreapp3.1\04.SimbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\obj\Debug\netcoreapp3.1\04.SimbolInMatrix.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\obj\Debug\netcoreapp3.1\04.SimbolInMatrix.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\obj\Debug\netcoreapp3.1\04.SimbolInMatrix.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\obj\Debug\netcoreapp3.1\04.SimbolInMatrix.dll
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\obj\Debug\netcoreapp3.1\04.SimbolInMatrix.pdb
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\04.SimbolInMatrix\obj\Debug\netcoreapp3.1\04.SimbolInMatrix.genruntimeconfig.cache

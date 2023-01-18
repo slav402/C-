@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\06.Jagged-ArrayModification.exe
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\06.Jagged-ArrayModification.deps.json
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\06.Jagged-ArrayModification.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\06.Jagged-ArrayModification.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\06.Jagged-ArrayModification.dll
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\bin\Debug\netcoreapp3.1\06.Jagged-ArrayModification.pdb
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.dll
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.pdb
+C:\repo\CSharp\C#Advanced\03.Multidimensional Arrays-Lab\06.Jagged-ArrayModification\obj\Debug\netcoreapp3.1\06.Jagged-ArrayModification.genruntimeconfig.cache
