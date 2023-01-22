@@ -15,7 +15,7 @@ namespace _03.MaximalSum
             int maxSum = int.MinValue;
             int[] subMatrixCoord = new int[2];
             
-            GetMatrix(matrix);
+            LoadMatrix(matrix);
 
             for (int i = 0; i < n-2; i++)
             {
@@ -52,9 +52,9 @@ namespace _03.MaximalSum
         {
             int sum = 0;
 
-            for (int n = 0; n < 3; n++)
+            for (int n = i; n < i+3; n++)
             {
-                for (int m = 0; m < 3; m++)
+                for (int m = j; m < j+3; m++)
                 {
                     sum += matrix[n, m];
                 }
@@ -62,7 +62,7 @@ namespace _03.MaximalSum
             return sum;
         }
 
-        private static void GetMatrix(int[,] matrix)
+        private static void LoadMatrix(int[,] matrix)
         {
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
