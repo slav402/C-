@@ -38,9 +38,12 @@ namespace _03.MaximalSum
 
         private static void PrintSubMatrix(int[] subMatrixCoord, int[,] matrix)
         {
-            for (int i = 0; i < 3; i++)
+            int row = subMatrixCoord[0];
+            int coll = subMatrixCoord[1];
+
+            for (int i = row; i < row+3; i++)
             {
-                for (int j = 0; j < 3; j++)
+                for (int j = coll; j < coll+3; j++)
                 {
                     Console.Write($"{matrix[i,j]} ");
                 }
