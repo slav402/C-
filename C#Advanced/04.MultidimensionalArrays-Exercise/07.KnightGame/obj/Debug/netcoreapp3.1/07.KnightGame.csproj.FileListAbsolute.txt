@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.exe
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.deps.json
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.dll
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\bin\Debug\netcoreapp3.1\07.KnightGame.pdb
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.dll
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.pdb
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\07.KnightGame\obj\Debug\netcoreapp3.1\07.KnightGame.genruntimeconfig.cache
