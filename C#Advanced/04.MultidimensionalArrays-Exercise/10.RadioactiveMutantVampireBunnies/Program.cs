@@ -131,11 +131,97 @@ namespace _10.RadioactiveMutantVampireBunnies
                         }
                         break;
 
-                        char[,] replica = new char[n, m];
-                        LoadingReplica(replica, n, m);
-
-
+                        
                 }
+
+                char[,] replica = new char[n, m];
+                LoadingReplica(replica, n, m);
+
+                for (int row = 0; row < lair.GetLength(0); row++)
+                {
+                    for (int col = 0; col < lair.GetLength(1); col++)
+                    {
+                        if (lair[row, col] == 'B')
+                        {
+                            replica[row, col] = 'B';
+
+                            if (IsInRange(lair, row + 1, col))
+                            {
+                                if (lair[row + 1, col] == 'P')
+                                {
+                                    isDead = true;
+                                    lair[row + 1, col] = '.';
+                                }
+
+                                replica[row + 1, col] = 'B';
+                            }
+
+                            if (IsInRange(lair, row - 1, col))
+                            {
+                                if (lair[row - 1, col] == 'P')
+                                {
+                                    isDead = true;
+                                    lair[row - 1, col] = '.';
+                                }
+
+                                replica[row - 1, col] = 'B';
+                            }
+
+                            if (IsInRange(lair, row, col + 1))
+                            {
+                                if (lair[row, col + 1] == 'P')
+                                {
+                                    isDead = true;
+                                    lair[row, col + 1] = '.';
+                                }
+
+                                replica[row, col + 1] = 'B';
+                            }
+
+                            if (IsInRange(lair, row, col - 1))
+                            {
+                                if (lair[row, col - 1] == 'P')
+                                {
+                                    isDead = true;
+                                    lair[row, col - 1] = '.';
+                                }
+
+                                replica[row, col - 1] = 'B';
+                            }
+                        }
+                        else if (lair[row, col] == 'P')
+                        {
+                            replica[row, col] = 'P';
+                        }
+                    }
+                }
+
+                lair = replica;
+
+                if (isDead || isFree)
+                {
+                    break;
+                }
+
+            }
+
+            for (int i = 0; i < lair.GetLength(0); i++)
+            {
+                for (int j = 0; j < lair.GetLength(1); j++)
+                {
+                    Console.Write(lair[i, j]);
+                }
+
+                Console.WriteLine();
+            }
+
+            if (isFree)
+            {
+                Console.WriteLine($"won: {playerRow} {playerCol}");
+            }
+            else
+            {
+                Console.WriteLine($"dead: {playerRow} {playerCol}");
             }
         }
 

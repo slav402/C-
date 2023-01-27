@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.exe
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.deps.json
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.dll
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.pdb
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.dll
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.pdb
+C:\repo\CSharp\C#Advanced\04.MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10.RadioactiveMutantVampireBunnies.genruntimeconfig.cache
