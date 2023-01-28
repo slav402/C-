@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\bin\Debug\netcoreapp3.1\01.CountSameValueInArray.exe
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\bin\Debug\netcoreapp3.1\01.CountSameValueInArray.deps.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\bin\Debug\netcoreapp3.1\01.CountSameValueInArray.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\bin\Debug\netcoreapp3.1\01.CountSameValueInArray.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\bin\Debug\netcoreapp3.1\01.CountSameValueInArray.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\bin\Debug\netcoreapp3.1\01.CountSameValueInArray.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\obj\Debug\netcoreapp3.1\01.CountSameValueInArray.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\obj\Debug\netcoreapp3.1\01.CountSameValueInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\obj\Debug\netcoreapp3.1\01.CountSameValueInArray.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\obj\Debug\netcoreapp3.1\01.CountSameValueInArray.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\obj\Debug\netcoreapp3.1\01.CountSameValueInArray.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\obj\Debug\netcoreapp3.1\01.CountSameValueInArray.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\obj\Debug\netcoreapp3.1\01.CountSameValueInArray.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\01.CountSameValueInArray\obj\Debug\netcoreapp3.1\01.CountSameValueInArray.genruntimeconfig.cache
