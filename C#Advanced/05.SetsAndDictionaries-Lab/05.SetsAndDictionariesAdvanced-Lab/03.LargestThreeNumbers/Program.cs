@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace _03.LargestThreeNumbers
 {
@@ -6,7 +8,11 @@ namespace _03.LargestThreeNumbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<int> numbers = Console.ReadLine().Split().Select(int.Parse).ToList();
+
+            numbers = numbers.OrderByDescending(n => n).Take(3).ToList();
+
+            Console.WriteLine(string.Join(" ", numbers));
         }
     }
 }

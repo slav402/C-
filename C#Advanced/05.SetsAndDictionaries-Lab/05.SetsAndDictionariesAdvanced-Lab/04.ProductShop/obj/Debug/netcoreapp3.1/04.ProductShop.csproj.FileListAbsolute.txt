@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\netcoreapp3.1\04.ProductShop.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\netcoreapp3.1\04.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\netcoreapp3.1\04.ProductShop.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\netcoreapp3.1\04.ProductShop.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\netcoreapp3.1\04.ProductShop.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\netcoreapp3.1\04.ProductShop.exe
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\netcoreapp3.1\04.ProductShop.deps.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\netcoreapp3.1\04.ProductShop.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\netcoreapp3.1\04.ProductShop.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\netcoreapp3.1\04.ProductShop.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\bin\Debug\netcoreapp3.1\04.ProductShop.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\netcoreapp3.1\04.ProductShop.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\netcoreapp3.1\04.ProductShop.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\04.ProductShop\obj\Debug\netcoreapp3.1\04.ProductShop.genruntimeconfig.cache
