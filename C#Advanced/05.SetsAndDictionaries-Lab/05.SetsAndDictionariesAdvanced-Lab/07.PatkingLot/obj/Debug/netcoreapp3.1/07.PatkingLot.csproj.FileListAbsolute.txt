@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\bin\Debug\netcoreapp3.1\07.PatkingLot.exe
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\bin\Debug\netcoreapp3.1\07.PatkingLot.deps.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\bin\Debug\netcoreapp3.1\07.PatkingLot.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\bin\Debug\netcoreapp3.1\07.PatkingLot.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\bin\Debug\netcoreapp3.1\07.PatkingLot.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\bin\Debug\netcoreapp3.1\07.PatkingLot.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\obj\Debug\netcoreapp3.1\07.PatkingLot.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\obj\Debug\netcoreapp3.1\07.PatkingLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\obj\Debug\netcoreapp3.1\07.PatkingLot.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\obj\Debug\netcoreapp3.1\07.PatkingLot.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\obj\Debug\netcoreapp3.1\07.PatkingLot.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\obj\Debug\netcoreapp3.1\07.PatkingLot.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\obj\Debug\netcoreapp3.1\07.PatkingLot.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\07.PatkingLot\obj\Debug\netcoreapp3.1\07.PatkingLot.genruntimeconfig.cache

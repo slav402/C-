@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\netcoreapp3.1\08.SoftUniParty.exe
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\netcoreapp3.1\08.SoftUniParty.deps.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\netcoreapp3.1\08.SoftUniParty.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\netcoreapp3.1\08.SoftUniParty.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\netcoreapp3.1\08.SoftUniParty.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\netcoreapp3.1\08.SoftUniParty.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\netcoreapp3.1\08.SoftUniParty.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\netcoreapp3.1\08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\netcoreapp3.1\08.SoftUniParty.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\netcoreapp3.1\08.SoftUniParty.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\netcoreapp3.1\08.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\netcoreapp3.1\08.SoftUniParty.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\netcoreapp3.1\08.SoftUniParty.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\05.SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\netcoreapp3.1\08.SoftUniParty.genruntimeconfig.cache
