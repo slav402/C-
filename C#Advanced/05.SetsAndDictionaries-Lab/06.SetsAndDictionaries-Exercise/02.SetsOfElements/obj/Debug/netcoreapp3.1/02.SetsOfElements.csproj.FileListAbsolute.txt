@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.exe
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.deps.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.genruntimeconfig.cache
