@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\bin\Debug\netcoreapp3.1\10.FprceBook.exe
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\bin\Debug\netcoreapp3.1\10.FprceBook.deps.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\bin\Debug\netcoreapp3.1\10.FprceBook.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\bin\Debug\netcoreapp3.1\10.FprceBook.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\bin\Debug\netcoreapp3.1\10.FprceBook.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\bin\Debug\netcoreapp3.1\10.FprceBook.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\obj\Debug\netcoreapp3.1\10.FprceBook.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\obj\Debug\netcoreapp3.1\10.FprceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\obj\Debug\netcoreapp3.1\10.FprceBook.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\obj\Debug\netcoreapp3.1\10.FprceBook.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\obj\Debug\netcoreapp3.1\10.FprceBook.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\obj\Debug\netcoreapp3.1\10.FprceBook.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\obj\Debug\netcoreapp3.1\10.FprceBook.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\10.FprceBook\obj\Debug\netcoreapp3.1\10.FprceBook.genruntimeconfig.cache
