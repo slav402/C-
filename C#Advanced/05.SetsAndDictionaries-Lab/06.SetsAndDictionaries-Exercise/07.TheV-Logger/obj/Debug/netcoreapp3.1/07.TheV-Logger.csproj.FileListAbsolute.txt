@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.exe
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.deps.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.genruntimeconfig.cache
