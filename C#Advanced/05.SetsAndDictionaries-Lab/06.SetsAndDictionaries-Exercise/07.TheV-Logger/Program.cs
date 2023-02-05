@@ -54,7 +54,7 @@ namespace _07.TheV_Logger
                 {
                     foreach (var follower in vlogger.Value["followers"])
                     {
-                        Console.WriteLine($"* {follower}");
+                        Console.WriteLine($"*  {follower}");
                     }
                 }
             }

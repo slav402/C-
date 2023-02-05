@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Wardrobe", "06.Wardrobe\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.TheV-Logger", "07.TheV-Logger\07.TheV-Logger.csproj", "{12F84D02-A659-4DA7-B6B5-D73417CEAEEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Ranking", "08.Ranking\08.Ranking.csproj", "{48FFF1E2-93A1-4CCE-81C7-D780E31AF6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SoftUniExamResult", "09.SoftUniExamResult\09.SoftUniExamResult.csproj", "{C42B3371-97DE-4923-9952-10AD581A2AD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{12F84D02-A659-4DA7-B6B5-D73417CEAEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12F84D02-A659-4DA7-B6B5-D73417CEAEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12F84D02-A659-4DA7-B6B5-D73417CEAEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48FFF1E2-93A1-4CCE-81C7-D780E31AF6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FFF1E2-93A1-4CCE-81C7-D780E31AF6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FFF1E2-93A1-4CCE-81C7-D780E31AF6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FFF1E2-93A1-4CCE-81C7-D780E31AF6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42B3371-97DE-4923-9952-10AD581A2AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42B3371-97DE-4923-9952-10AD581A2AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42B3371-97DE-4923-9952-10AD581A2AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42B3371-97DE-4923-9952-10AD581A2AD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

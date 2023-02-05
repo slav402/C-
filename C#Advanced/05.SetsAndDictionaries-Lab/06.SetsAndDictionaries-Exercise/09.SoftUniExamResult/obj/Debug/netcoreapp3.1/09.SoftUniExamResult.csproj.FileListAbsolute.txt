@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\bin\Debug\netcoreapp3.1\09.SoftUniExamResult.exe
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\bin\Debug\netcoreapp3.1\09.SoftUniExamResult.deps.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\bin\Debug\netcoreapp3.1\09.SoftUniExamResult.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\bin\Debug\netcoreapp3.1\09.SoftUniExamResult.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\bin\Debug\netcoreapp3.1\09.SoftUniExamResult.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\bin\Debug\netcoreapp3.1\09.SoftUniExamResult.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\obj\Debug\netcoreapp3.1\09.SoftUniExamResult.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\obj\Debug\netcoreapp3.1\09.SoftUniExamResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\obj\Debug\netcoreapp3.1\09.SoftUniExamResult.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\obj\Debug\netcoreapp3.1\09.SoftUniExamResult.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\obj\Debug\netcoreapp3.1\09.SoftUniExamResult.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\obj\Debug\netcoreapp3.1\09.SoftUniExamResult.dll
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\obj\Debug\netcoreapp3.1\09.SoftUniExamResult.pdb
+C:\repo\CSharp\C#Advanced\05.SetsAndDictionaries-Lab\06.SetsAndDictionaries-Exercise\09.SoftUniExamResult\obj\Debug\netcoreapp3.1\09.SoftUniExamResult.genruntimeconfig.cache
