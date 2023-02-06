@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\bin\Debug\netcoreapp3.1\01.SortEvenNumbedrs.exe
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\bin\Debug\netcoreapp3.1\01.SortEvenNumbedrs.deps.json
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\bin\Debug\netcoreapp3.1\01.SortEvenNumbedrs.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\bin\Debug\netcoreapp3.1\01.SortEvenNumbedrs.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\bin\Debug\netcoreapp3.1\01.SortEvenNumbedrs.dll
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\bin\Debug\netcoreapp3.1\01.SortEvenNumbedrs.pdb
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\obj\Debug\netcoreapp3.1\01.SortEvenNumbedrs.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\obj\Debug\netcoreapp3.1\01.SortEvenNumbedrs.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\obj\Debug\netcoreapp3.1\01.SortEvenNumbedrs.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\obj\Debug\netcoreapp3.1\01.SortEvenNumbedrs.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\obj\Debug\netcoreapp3.1\01.SortEvenNumbedrs.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\obj\Debug\netcoreapp3.1\01.SortEvenNumbedrs.dll
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\obj\Debug\netcoreapp3.1\01.SortEvenNumbedrs.pdb
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\01.SortEvenNumbedrs\obj\Debug\netcoreapp3.1\01.SortEvenNumbedrs.genruntimeconfig.cache
