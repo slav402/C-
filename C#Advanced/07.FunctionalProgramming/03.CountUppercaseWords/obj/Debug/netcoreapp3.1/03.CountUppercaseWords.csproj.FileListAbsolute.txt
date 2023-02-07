@@ -1,0 +1,13 @@
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.exe
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.deps.json
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.dll
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\bin\Debug\netcoreapp3.1\03.CountUppercaseWords.pdb
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.dll
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.pdb
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\03.CountUppercaseWords\obj\Debug\netcoreapp3.1\03.CountUppercaseWords.genruntimeconfig.cache
