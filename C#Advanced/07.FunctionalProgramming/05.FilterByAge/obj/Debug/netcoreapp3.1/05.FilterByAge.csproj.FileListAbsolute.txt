@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\bin\Debug\netcoreapp3.1\05.FilterByAge.exe
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\bin\Debug\netcoreapp3.1\05.FilterByAge.deps.json
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\bin\Debug\netcoreapp3.1\05.FilterByAge.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\bin\Debug\netcoreapp3.1\05.FilterByAge.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\bin\Debug\netcoreapp3.1\05.FilterByAge.dll
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\bin\Debug\netcoreapp3.1\05.FilterByAge.pdb
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.dll
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.pdb
+C:\repo\CSharp\C#Advanced\07.FunctionalProgramming\05.FilterByAge\obj\Debug\netcoreapp3.1\05.FilterByAge.genruntimeconfig.cache
