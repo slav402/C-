@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33130.400
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ConvertMetersToKilometers", "01.ConvertMetersToKilometers\01.ConvertMetersToKilometers.csproj", "{7EEFFCFD-9E2F-4BB4-A1AF-8F09C11AC22F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ConvertMetersToKilometers", "01.ConvertMetersToKilometers\01.ConvertMetersToKilometers.csproj", "{7EEFFCFD-9E2F-4BB4-A1AF-8F09C11AC22F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PoundsToDollars", "02.PoundsToDollars\02.PoundsToDollars.csproj", "{56FA3740-6A84-46C4-9390-D1064F633AEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.PoundsToDollars", "02.PoundsToDollars\02.PoundsToDollars.csproj", "{56FA3740-6A84-46C4-9390-D1064F633AEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExactSumОfRealNumbers", "03.ExactSumОfRealNumbers\03.ExactSumОfRealNumbers.csproj", "{322E69DF-04CE-45FF-9DCE-8F39EDF26165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ExactSumОfRealNumbers", "03.ExactSumОfRealNumbers\03.ExactSumОfRealNumbers.csproj", "{322E69DF-04CE-45FF-9DCE-8F39EDF26165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SpecialNumbers", "05.SpecialNumbers\05.SpecialNumbers.csproj", "{D1B6942A-AE7A-48F2-8297-492A4F6B733B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.SpecialNumbers", "05.SpecialNumbers\05.SpecialNumbers.csproj", "{D1B6942A-AE7A-48F2-8297-492A4F6B733B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Town Info", "08. Town Info\08. Town Info.csproj", "{A1FE0DFF-F3BD-4A84-9698-E4DBA404843A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Lower or Upper", "10. Lower or Upper\10. Lower or Upper.csproj", "{FA9F7DE7-6DCD-4E1C-98E6-793CC52AADAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{D1B6942A-AE7A-48F2-8297-492A4F6B733B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1B6942A-AE7A-48F2-8297-492A4F6B733B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1B6942A-AE7A-48F2-8297-492A4F6B733B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1FE0DFF-F3BD-4A84-9698-E4DBA404843A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FE0DFF-F3BD-4A84-9698-E4DBA404843A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FE0DFF-F3BD-4A84-9698-E4DBA404843A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FE0DFF-F3BD-4A84-9698-E4DBA404843A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA9F7DE7-6DCD-4E1C-98E6-793CC52AADAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9F7DE7-6DCD-4E1C-98E6-793CC52AADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9F7DE7-6DCD-4E1C-98E6-793CC52AADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9F7DE7-6DCD-4E1C-98E6-793CC52AADAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
