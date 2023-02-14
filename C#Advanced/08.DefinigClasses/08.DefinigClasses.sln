@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CarConstructors", "03.Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CarEngineAndTires", "04.CarEngineAndTires\04.CarEngineAndTires.csproj", "{23A51A00-5FCD-4EA4-85CD-B01500BE2C18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SpecialCars", "05.SpecialCars\05.SpecialCars.csproj", "{850F90C7-5E41-4962-91AD-A5CC9761B140}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{23A51A00-5FCD-4EA4-85CD-B01500BE2C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23A51A00-5FCD-4EA4-85CD-B01500BE2C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23A51A00-5FCD-4EA4-85CD-B01500BE2C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850F90C7-5E41-4962-91AD-A5CC9761B140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850F90C7-5E41-4962-91AD-A5CC9761B140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850F90C7-5E41-4962-91AD-A5CC9761B140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850F90C7-5E41-4962-91AD-A5CC9761B140}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
