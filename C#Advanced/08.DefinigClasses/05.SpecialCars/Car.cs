@@ -71,7 +71,7 @@ namespace CarManufacturer
 
         public void Drive(double distance)
         {
-            double fuelToConsume = distance * FuelConsumption;
+            double fuelToConsume = distance * FuelConsumption / 100;
 
             if (FuelQuantity - fuelToConsume >= 0)
             {
@@ -89,7 +89,8 @@ namespace CarManufacturer
             sb.AppendLine($"Make: {Make}");
             sb.AppendLine($"Model: {Model}");
             sb.AppendLine($"Year: {Year}");
-            sb.Append($"Fuel: {FuelQuantity}");
+            sb.AppendLine($"HorsePowers: {Engine.HorsePower}");
+            sb.Append($"FuelQuantity: {FuelQuantity}");
 
             return sb;
         }
