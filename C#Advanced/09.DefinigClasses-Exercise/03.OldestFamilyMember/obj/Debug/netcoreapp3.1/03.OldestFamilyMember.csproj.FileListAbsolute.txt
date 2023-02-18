@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.exe
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.deps.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.dll
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp3.1\03.OldestFamilyMember.pdb
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.dll
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.pdb
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp3.1\03.OldestFamilyMember.genruntimeconfig.cache

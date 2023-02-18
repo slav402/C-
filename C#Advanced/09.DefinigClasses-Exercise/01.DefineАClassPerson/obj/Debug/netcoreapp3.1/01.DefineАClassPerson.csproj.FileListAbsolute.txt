@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\bin\Debug\netcoreapp3.1\01.DefineАClassPerson.exe
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\bin\Debug\netcoreapp3.1\01.DefineАClassPerson.deps.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\bin\Debug\netcoreapp3.1\01.DefineАClassPerson.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\bin\Debug\netcoreapp3.1\01.DefineАClassPerson.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\bin\Debug\netcoreapp3.1\01.DefineАClassPerson.dll
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\bin\Debug\netcoreapp3.1\01.DefineАClassPerson.pdb
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\obj\Debug\netcoreapp3.1\01.DefineАClassPerson.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\obj\Debug\netcoreapp3.1\01.DefineАClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\obj\Debug\netcoreapp3.1\01.DefineАClassPerson.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\obj\Debug\netcoreapp3.1\01.DefineАClassPerson.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\obj\Debug\netcoreapp3.1\01.DefineАClassPerson.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\obj\Debug\netcoreapp3.1\01.DefineАClassPerson.dll
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\obj\Debug\netcoreapp3.1\01.DefineАClassPerson.pdb
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\01.DefineАClassPerson\obj\Debug\netcoreapp3.1\01.DefineАClassPerson.genruntimeconfig.cache
