@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\bin\Debug\netcoreapp3.1\06.SpeedRacingg.exe
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\bin\Debug\netcoreapp3.1\06.SpeedRacingg.deps.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\bin\Debug\netcoreapp3.1\06.SpeedRacingg.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\bin\Debug\netcoreapp3.1\06.SpeedRacingg.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\bin\Debug\netcoreapp3.1\06.SpeedRacingg.dll
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\bin\Debug\netcoreapp3.1\06.SpeedRacingg.pdb
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\obj\Debug\netcoreapp3.1\06.SpeedRacingg.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\obj\Debug\netcoreapp3.1\06.SpeedRacingg.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\obj\Debug\netcoreapp3.1\06.SpeedRacingg.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\obj\Debug\netcoreapp3.1\06.SpeedRacingg.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\obj\Debug\netcoreapp3.1\06.SpeedRacingg.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\obj\Debug\netcoreapp3.1\06.SpeedRacingg.dll
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\obj\Debug\netcoreapp3.1\06.SpeedRacingg.pdb
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\06.SpeedRacingg\obj\Debug\netcoreapp3.1\06.SpeedRacingg.genruntimeconfig.cache
