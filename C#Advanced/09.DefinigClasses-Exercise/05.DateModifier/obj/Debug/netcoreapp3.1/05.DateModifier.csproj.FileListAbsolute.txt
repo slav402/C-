@@ -1,0 +1,13 @@
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.exe
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.deps.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.dll
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.pdb
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.dll
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.pdb
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.genruntimeconfig.cache
