@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.exe
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.deps.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.dev.json
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.dll
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.AssemblyInfo.cs
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.dll
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+C:\repo\CSharp\C#Advanced\09.DefinigClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.genruntimeconfig.cache
