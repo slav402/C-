@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\bin\Debug\netcoreapp3.1\05.StackOfStrings.exe
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\bin\Debug\netcoreapp3.1\05.StackOfStrings.deps.json
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\bin\Debug\netcoreapp3.1\05.StackOfStrings.runtimeconfig.json
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\bin\Debug\netcoreapp3.1\05.StackOfStrings.runtimeconfig.dev.json
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\bin\Debug\netcoreapp3.1\05.StackOfStrings.dll
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\bin\Debug\netcoreapp3.1\05.StackOfStrings.pdb
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\obj\Debug\netcoreapp3.1\05.StackOfStrings.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\obj\Debug\netcoreapp3.1\05.StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\obj\Debug\netcoreapp3.1\05.StackOfStrings.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\obj\Debug\netcoreapp3.1\05.StackOfStrings.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\obj\Debug\netcoreapp3.1\05.StackOfStrings.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\obj\Debug\netcoreapp3.1\05.StackOfStrings.dll
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\obj\Debug\netcoreapp3.1\05.StackOfStrings.pdb
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\05.StackOfStrings\obj\Debug\netcoreapp3.1\05.StackOfStrings.genruntimeconfig.cache
