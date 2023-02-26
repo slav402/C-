@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.exe
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.deps.json
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.runtimeconfig.json
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.runtimeconfig.dev.json
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.dll
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.pdb
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.dll
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.pdb
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.genruntimeconfig.cache

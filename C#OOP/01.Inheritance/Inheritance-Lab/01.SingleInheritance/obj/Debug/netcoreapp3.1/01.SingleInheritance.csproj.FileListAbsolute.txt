@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.exe
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.deps.json
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.runtimeconfig.json
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.runtimeconfig.dev.json
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.dll
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.pdb
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.dll
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.pdb
+C:\repo\CSharp\C#OOP\01.Inheritance\Lab\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.genruntimeconfig.cache
