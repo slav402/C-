@@ -5,13 +5,15 @@ VisualStudioVersion = 16.0.33130.400
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SingleInheritance", "01.SingleInheritance\01.SingleInheritance.csproj", "{70C8A4A2-2854-4E5D-9FB4-C1BF7DE7BEB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MultipleInheritance", "02.MultipleInheritance\02.MultipleInheritance.csproj", "{A3A47C57-2A5E-46F0-93EF-23C898BA945E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MultipleInheritance", "02.MultipleInheritance\02.MultipleInheritance.csproj", "{A3A47C57-2A5E-46F0-93EF-23C898BA945E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.HierarchicalInheritance", "03.HierarchicalInheritance\03.HierarchicalInheritance.csproj", "{E72C3235-FA56-4D1D-B89C-D3D08573EA9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.HierarchicalInheritance", "03.HierarchicalInheritance\03.HierarchicalInheritance.csproj", "{E72C3235-FA56-4D1D-B89C-D3D08573EA9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RandomList", "04.RandomList\04.RandomList.csproj", "{9343C6E1-BAD1-45DF-9F74-FBB1B38A908B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.RandomList", "04.RandomList\04.RandomList.csproj", "{9343C6E1-BAD1-45DF-9F74-FBB1B38A908B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.StackOfStrings", "05.StackOfStrings\05.StackOfStrings.csproj", "{4EABD5BD-18E8-4FE9-B767-F084F379553E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.StackOfStrings", "05.StackOfStrings\05.StackOfStrings.csproj", "{4EABD5BD-18E8-4FE9-B767-F084F379553E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SomeTest", "06.SomeTest\06.SomeTest.csproj", "{3021F7F7-3C4B-482C-92C7-D39358E12E4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4EABD5BD-18E8-4FE9-B767-F084F379553E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EABD5BD-18E8-4FE9-B767-F084F379553E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EABD5BD-18E8-4FE9-B767-F084F379553E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3021F7F7-3C4B-482C-92C7-D39358E12E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3021F7F7-3C4B-482C-92C7-D39358E12E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3021F7F7-3C4B-482C-92C7-D39358E12E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3021F7F7-3C4B-482C-92C7-D39358E12E4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\bin\Debug\netcoreapp3.1\06.SomeTest.exe
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\bin\Debug\netcoreapp3.1\06.SomeTest.deps.json
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\bin\Debug\netcoreapp3.1\06.SomeTest.runtimeconfig.json
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\bin\Debug\netcoreapp3.1\06.SomeTest.runtimeconfig.dev.json
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\bin\Debug\netcoreapp3.1\06.SomeTest.dll
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\bin\Debug\netcoreapp3.1\06.SomeTest.pdb
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\obj\Debug\netcoreapp3.1\06.SomeTest.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\obj\Debug\netcoreapp3.1\06.SomeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\obj\Debug\netcoreapp3.1\06.SomeTest.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\obj\Debug\netcoreapp3.1\06.SomeTest.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\obj\Debug\netcoreapp3.1\06.SomeTest.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\obj\Debug\netcoreapp3.1\06.SomeTest.dll
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\obj\Debug\netcoreapp3.1\06.SomeTest.pdb
+C:\repo\CSharp\C#OOP\01.Inheritance\Inheritance-Lab\06.SomeTest\obj\Debug\netcoreapp3.1\06.SomeTest.genruntimeconfig.cache
