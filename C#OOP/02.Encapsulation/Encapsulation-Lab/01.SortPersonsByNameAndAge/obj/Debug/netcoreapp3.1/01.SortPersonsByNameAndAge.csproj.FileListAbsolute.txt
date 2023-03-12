@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.exe
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.deps.json
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.runtimeconfig.json
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.runtimeconfig.dev.json
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.dll
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.pdb
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.dll
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.pdb
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\01.SortPersonsByNameAndAge.genruntimeconfig.cache
