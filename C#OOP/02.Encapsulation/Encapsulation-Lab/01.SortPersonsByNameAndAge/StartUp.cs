@@ -8,18 +8,19 @@ namespace PersonsInfo
     {
         static void Main(string[] args)
         {
-            int lines = int.Parse(Console.ReadLine());
-            List<Person> persons = new List<Person>();
+            int inputLines = int.Parse(Console.ReadLine());
+            List<Person> personsList = new List<Person>();
 
-            for (int i = 0; i < lines; i++)
+            for (int i = 0; i < inputLines; i++)
             {
-                string[] input = Console.ReadLine()
-                    .Split(' ', StringSplitOptions.RemoveEmptyEntries);
-                Person person = new Person(input[0], input[1], int.Parse(input[2]));
-                persons.Add(person);
+                var entry = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+                Person curentPerson = new Person(entry[0], entry[1], int.Parse(entry[2]));
+
+                personsList.Add(curentPerson);
             }
 
-            persons.OrderBy(p => p.FirstName)
+            personsList.OrderBy(p => p.FirstName)
                 .ThenBy(p => p.Age)
                 .ToList()
                 .ForEach(p => Console.WriteLine(p.ToString()));
