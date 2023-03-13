@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp3.1\02.SalaryIncrease.exe
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp3.1\02.SalaryIncrease.deps.json
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp3.1\02.SalaryIncrease.runtimeconfig.json
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp3.1\02.SalaryIncrease.runtimeconfig.dev.json
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp3.1\02.SalaryIncrease.dll
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp3.1\02.SalaryIncrease.pdb
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp3.1\02.SalaryIncrease.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp3.1\02.SalaryIncrease.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp3.1\02.SalaryIncrease.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp3.1\02.SalaryIncrease.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp3.1\02.SalaryIncrease.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp3.1\02.SalaryIncrease.dll
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp3.1\02.SalaryIncrease.pdb
+C:\repo\CSharp\C#OOP\02.Encapsulation\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp3.1\02.SalaryIncrease.genruntimeconfig.cache
