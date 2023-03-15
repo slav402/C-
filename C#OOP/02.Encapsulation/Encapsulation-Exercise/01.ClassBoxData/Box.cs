@@ -21,7 +21,7 @@ namespace BoxData
         public double Length
         {
             get { return lenght; }
-            set 
+            private set
             {
                 ThrowIfInvalidSide(value, nameof(this.Length));
                 lenght = value; 
@@ -31,7 +31,7 @@ namespace BoxData
         public double Width
         {
             get { return width; }
-            set 
+            private set
             {
                 ThrowIfInvalidSide(value, nameof(this.Width));
                 width = value; 
@@ -41,7 +41,7 @@ namespace BoxData
         public double Height
         {
             get { return height; }
-            set 
+            private set
             {
                 ThrowIfInvalidSide(value, nameof(this.Length));
                 height = value; 
