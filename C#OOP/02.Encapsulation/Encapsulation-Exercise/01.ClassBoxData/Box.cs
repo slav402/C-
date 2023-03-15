@@ -6,7 +6,7 @@ namespace BoxData
 {
     public class Box
     {
-        private double lenght;
+        private double length;
         private double width;
         private double height;
 
@@ -18,19 +18,19 @@ namespace BoxData
             this.Height = height;
         }
 
-        public double Length
+        public double Length 
         {
-            get { return lenght; }
+            get => length;
             private set
             {
                 ThrowIfInvalidSide(value, nameof(this.Length));
-                lenght = value; 
+                length = value; 
             }
         }
 
-        public double Width
+        public double Width 
         {
-            get { return width; }
+            get => width;
             private set
             {
                 ThrowIfInvalidSide(value, nameof(this.Width));
@@ -38,29 +38,29 @@ namespace BoxData
             }
         }
 
-        public double Height
+        public double Height    
         {
-            get { return height; }
+            get => height;
             private set
             {
-                ThrowIfInvalidSide(value, nameof(this.Length));
+                ThrowIfInvalidSide(value, nameof(this.Height));
                 height = value; 
             }
         }
 
         public double SurfaceArea()
         {
-            return 2 * (Length * Width + Length * Height + Width * Height);
+            return 2 * (Length * Height + Height * Width + Length * Width); 
         }
 
         public double LateralSurfaceArea()
         {
-            return 2 * (Length + Width) * Height;
+            return 2 * Height * (Length + Width);
         }
 
         public double CalculateVolume()
         {
-            return this.Length * this.Width * this.Height;
+            return Length * Width * Height;
         }
 
         private void ThrowIfInvalidSide(double value, string sideName)
