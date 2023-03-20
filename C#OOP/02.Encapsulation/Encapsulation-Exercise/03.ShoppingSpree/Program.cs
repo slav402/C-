@@ -19,7 +19,7 @@ namespace ShoppingSpree
                 persons = PersonReader(personInput);
                 products = ProductReader(productInput);
             }
-            catch (Exception ex)
+            catch (ArgumentException ex)
             {
                 Console.WriteLine(ex.Message);
                 return;
@@ -39,24 +39,8 @@ namespace ShoppingSpree
                 string personName = parts[0];
                 string productName = parts[1];
 
-                Person person = new Person();
-                Product product = new Product();
-
-                foreach (var item in persons)
-                {
-                    if (item.Name == personName)
-                    {
-                        person = item;
-                    }
-                }
-
-                foreach (var item in products)
-                {
-                    if (item.Name == productName)
-                    {
-                        product = item;
-                    }
-                }
+                Person person = persons.FirstOrDefault(p => p.Name == personName);
+                Product product = products.FirstOrDefault(p => p.Name == productName);
 
                 try
                 {
@@ -64,15 +48,15 @@ namespace ShoppingSpree
 
                     Console.WriteLine($"{personName} bought {productName}");
                 }
-                catch (Exception ex)
+                catch (ArgumentException ex)
                 {
                     Console.WriteLine(ex.Message);
                 }
             }
 
-            foreach (var item in persons)
+            foreach (var someGuy in persons)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(someGuy.ToString());
             }
         }
 

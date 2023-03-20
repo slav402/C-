@@ -9,11 +9,6 @@ namespace ShoppingSpree
         private string name;
         private decimal cost;
 
-        public Product()
-        {
-
-        }
-
         public Product(string name, decimal cost)
         {
             Name = name;
@@ -29,6 +24,7 @@ namespace ShoppingSpree
                 {
                     throw new ArgumentException("Money cannot be negative");
                 }
+
                 cost = value; 
             }
         }
@@ -42,6 +38,7 @@ namespace ShoppingSpree
                 {
                     throw new ArgumentException("Name cannot be empty");
                 }
+
                 name = value; 
             }
         }

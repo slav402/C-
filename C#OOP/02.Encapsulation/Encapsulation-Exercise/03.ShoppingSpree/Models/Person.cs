@@ -11,11 +11,6 @@ namespace ShoppingSpree
         private decimal money;
         private List<Product> bag;
 
-        public Person()
-        {
-
-        }
-
         public Person(string name, decimal money)
         {
             Name = name;
@@ -65,12 +60,18 @@ namespace ShoppingSpree
 
         public override string ToString()
         {
-            if (this.bag.Count == 0)
-            {
-                return $"{this.Name} - Nothing bought";
-            }
+            string boughtProducts = bag.Any()
+                ? string.Join(", ", this.bag.Select(p => p.Name))
+                : "Nothing bought";
 
-            return $"{this.Name} - {string.Join(", ", this.bag.Select(p => p.Name))}";
+            return $"{Name} - {boughtProducts}";
+
+            //if (this.bag.Count == 0)
+            //{
+            //    return $"{this.Name} - Nothing bought";
+            //}
+
+            //return $"{this.Name} - {string.Join(", ", this.bag.Select(p => p.Name))}";
         }
 
     }
