@@ -6,34 +6,31 @@ namespace PizzaCalories
     {
         static void Main(string[] args)
         {
-            string input;
-            double calories = 0;
-            double toppinpCalories = 0;
+            string pizzaName = Console.ReadLine().Split()[1];
+            string[] doughData = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
-            while ((input = Console.ReadLine()) != "END")
+            try
             {
-                string[] tokens = input.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                Dough testo = new Dough(doughData[1], doughData[2], int.Parse(doughData[3]));
+                Pizza pizza = new Pizza(pizzaName, testo);
 
-                try
+                string input;
+
+                while ((input = Console.ReadLine()) != "END")
                 {
-                    if (tokens[0].ToLower() == "dough")
-                    {
-                        Dough testo = new Dough(tokens[1], tokens[2], int.Parse(tokens[3]));
-                        calories += testo.GetDoughCalories();
-                    }
-                    else
-                    {
-                        Topping topping = new Topping(tokens[1], int.Parse(tokens[2]));
-                        calories += topping.GetToppingCalories();
-                    }
-                }
-                catch (ArgumentException ex)
-                {
-                    Console.WriteLine(ex.Message);
-                    return;
+                    string[] tokens = input.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+                    Topping topping = new Topping(tokens[1], int.Parse(tokens[2]));
+
+                    pizza.AddTopping(topping);
                 }
 
-                Console.WriteLine($"{calories:f2}");
+                Console.WriteLine(pizza.ToString());
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
+                return;
             }
         }
     }
