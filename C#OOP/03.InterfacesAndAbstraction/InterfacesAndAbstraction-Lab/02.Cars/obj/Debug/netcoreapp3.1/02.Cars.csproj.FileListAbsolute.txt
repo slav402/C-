@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.exe
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.deps.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.runtimeconfig.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.runtimeconfig.dev.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.dll
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.pdb
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.dll
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.pdb
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.genruntimeconfig.cache
