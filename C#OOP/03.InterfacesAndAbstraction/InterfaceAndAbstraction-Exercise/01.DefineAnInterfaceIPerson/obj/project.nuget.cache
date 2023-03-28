@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "m8dkLUQabm9CxoYIsjRpR91LuXWTEB8BfIYuDmGrTGG2Pn6T3yl5hDbgsFOVwJdZ4/Pp+dcR9Qqpgp4Exxvz/w==",
+  "dgSpecHash": "+bkg38TBINkDduM0JGsTMdnvYTXS5ymqE5/NF5nQZU+0MEMe573Wkorun1/8ZiXKX3wtWlMq4XLZld2CTX9Rdg==",
   "success": true,
   "projectFilePath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\01.DefineAnInterfaceIPerson\\01.DefineAnInterfaceIPerson.csproj",
   "expectedPackageFiles": [],

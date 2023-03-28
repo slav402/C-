@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\03.Telephony\\03.Telephony.csproj",
-      "projectName": "03.Telephony",
-      "projectPath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\03.Telephony\\03.Telephony.csproj",
+      "projectUniqueName": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\03.Telephony.v02\\03.Telephony.v02.csproj",
+      "projectName": "03.Telephony.v02",
+      "projectPath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\03.Telephony.v02\\03.Telephony.v02.csproj",
       "packagesPath": "C:\\Users\\Salvi Zekov\\.nuget\\packages\\",
-      "outputPath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\03.Telephony\\obj\\",
+      "outputPath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\03.Telephony.v02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
