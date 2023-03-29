@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Telephony", "03.Telephon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Telephony.v02", "03.Telephony.v02\03.Telephony.v02.csproj", "{F17EB768-8122-4847-8F24-BE83C55ED054}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.MilitaryElite", "07.MilitaryElite\07.MilitaryElite.csproj", "{DAE3B06C-9BD2-4540-91A4-91A23E0FFEE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F17EB768-8122-4847-8F24-BE83C55ED054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F17EB768-8122-4847-8F24-BE83C55ED054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F17EB768-8122-4847-8F24-BE83C55ED054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE3B06C-9BD2-4540-91A4-91A23E0FFEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE3B06C-9BD2-4540-91A4-91A23E0FFEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE3B06C-9BD2-4540-91A4-91A23E0FFEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE3B06C-9BD2-4540-91A4-91A23E0FFEE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
