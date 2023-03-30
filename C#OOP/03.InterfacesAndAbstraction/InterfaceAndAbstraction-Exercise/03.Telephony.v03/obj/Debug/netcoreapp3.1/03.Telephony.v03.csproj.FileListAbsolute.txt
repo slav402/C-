@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\bin\Debug\netcoreapp3.1\03.Telephony.v03.exe
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\bin\Debug\netcoreapp3.1\03.Telephony.v03.deps.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\bin\Debug\netcoreapp3.1\03.Telephony.v03.runtimeconfig.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\bin\Debug\netcoreapp3.1\03.Telephony.v03.runtimeconfig.dev.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\bin\Debug\netcoreapp3.1\03.Telephony.v03.dll
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\bin\Debug\netcoreapp3.1\03.Telephony.v03.pdb
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\obj\Debug\netcoreapp3.1\03.Telephony.v03.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\obj\Debug\netcoreapp3.1\03.Telephony.v03.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\obj\Debug\netcoreapp3.1\03.Telephony.v03.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\obj\Debug\netcoreapp3.1\03.Telephony.v03.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\obj\Debug\netcoreapp3.1\03.Telephony.v03.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\obj\Debug\netcoreapp3.1\03.Telephony.v03.dll
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\obj\Debug\netcoreapp3.1\03.Telephony.v03.pdb
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\03.Telephony.v03\obj\Debug\netcoreapp3.1\03.Telephony.v03.genruntimeconfig.cache
