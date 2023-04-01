@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Channels;
 using Telephony.Core.Interfaces;
+using Telephony.IO;
+using Telephony.IO.Interfaces;
 using Telephony.Models;
 using Telephony.Models.Interfaces;
 
@@ -9,10 +12,18 @@ namespace Telephony.Core
 {
     public class Engine : IEngine
     {
+        private IReader reader;
+        private IWriter writer;
+
+        public Engine(IReader reader, IWriter writer) 
+        {
+            this.reader = reader;
+            this.writer = writer;
+        }
         public void Run()
         {
-            string[] phoneNumbers = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
-            string[] urls = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+            string[] phoneNumbers = reader.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+            string[] urls = reader.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
             ICallable phone;
 
@@ -29,11 +40,11 @@ namespace Telephony.Core
 
                 try
                 {
-                    Console.WriteLine(phone.Call(number));
+                    writer.WriteLine(phone.Call(number));
                 }
                 catch (ArgumentException ex)
                 {
-                    Console.WriteLine(ex.Message);
+                    writer.WriteLine(ex.Message);
                 }
             }
 
@@ -43,13 +54,15 @@ namespace Telephony.Core
             {
                 try
                 {
-                    Console.WriteLine(smartPhone.Browse(url));
+                    writer.WriteLine(smartPhone.Browse(url));
                 }
                 catch (ArgumentException ex)
                 {
-                    Console.WriteLine(ex.Message);
+                    writer.WriteLine(ex.Message);
                 }
             }
         }
+
+        public void PrintSometing() => Console.WriteLine("I just witing some shits");
     }
 }
