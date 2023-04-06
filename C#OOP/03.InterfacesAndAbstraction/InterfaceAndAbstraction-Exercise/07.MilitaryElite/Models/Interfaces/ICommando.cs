@@ -4,8 +4,8 @@ using System.Text;
 
 namespace MilitaryElite.Models.Interfaces
 {
-    public interface ISpy : ISoldier
+    public interface ICommando : ISpecialisedSoldier
     {
-        int CodeNumber { get; }
+        IReadOnlyCollection<IMission> Missions { get; }
     }
 }

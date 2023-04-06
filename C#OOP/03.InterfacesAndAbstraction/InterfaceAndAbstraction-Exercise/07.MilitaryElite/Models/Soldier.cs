@@ -2,12 +2,23 @@
 
 namespace MilitaryElite.Models
 {
-    public class Soldier : ISoldier
+    public abstract class Soldier : ISoldier
     {
-        public string Id => throw new System.NotImplementedException();
+        protected Soldier(int id, string firstName, string lastName)
+        {
+            Id = id;
+            FirstName = firstName;
+            LastName = lastName;
+        }
 
-        public string FirstName => throw new System.NotImplementedException();
+        public int Id { get; private set; }
 
-        public string LastName => throw new System.NotImplementedException();
+        public string FirstName { get; private set; }
+
+        public string LastName { get; private set; }
+
+        public override string ToString()
+        => $"Name: {FirstName} {LastName} Id: {Id}";
+
     }
 }

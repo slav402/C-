@@ -6,8 +6,8 @@ namespace MilitaryElite.Models.Interfaces
 {
     public interface ISoldier
     {
-        string Id { get; }
-        string FirstName { get; }
-        string LastName { get; }
+        public int Id { get; }
+        public string FirstName { get; }
+        public string LastName { get; }
     }
 }

@@ -4,8 +4,10 @@ using System.Text;
 
 namespace MilitaryElite.Models.Interfaces
 {
-    internal interface ILieutenantGeneral
+    public interface IRepair
     {
-        List<Private> Privates { get; }
+        string PartName { get; }
+
+        int HoursWorked { get; }
     }
 }
