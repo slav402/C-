@@ -17,12 +17,17 @@ namespace MilitaryElite.Models
 
         public override string ToString()
         {
-            return base.ToString();
-            Console.WriteLine("Privates:");
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine(base.ToString());
+            sb.AppendLine("Privates:");
+
             foreach (IPrivate currentPrivate in Privates)
             {
-                Console.WriteLine($"  {currentPrivate.ToString()}");
+                sb.AppendLine($"  {currentPrivate.ToString()}");
             }
+            
+            return sb.ToString().TrimEnd();
         }
     }
 }
