@@ -18,7 +18,7 @@ namespace MilitaryElite.Models
 
         public override string ToString()
         {
-            return base.ToString() + $"{ Environment.NewLine} Corps: {Corps}";
+            return base.ToString() + $"{ Environment.NewLine}Corps: {Corps}";
         }
     }
 }
