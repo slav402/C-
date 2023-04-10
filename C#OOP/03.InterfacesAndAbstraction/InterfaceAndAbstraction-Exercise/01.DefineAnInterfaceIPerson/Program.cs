@@ -13,7 +13,7 @@ namespace PersonInfo
             Console.WriteLine(citizen.Name);
             Console.WriteLine(citizen.Age);
 
-            citizen.ToString
+            
         }
     }
 }

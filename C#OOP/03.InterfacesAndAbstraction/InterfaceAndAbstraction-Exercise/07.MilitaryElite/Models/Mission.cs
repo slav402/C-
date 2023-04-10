@@ -23,6 +23,7 @@ namespace MilitaryElite.Models
             State = State.Finished;
         }
 
-        public override string ToString() => $"Code Name: {CodeName} State: {State}";
+        public override string ToString() 
+            => $"Code Name: {CodeName} State: {State}";
     }
 }

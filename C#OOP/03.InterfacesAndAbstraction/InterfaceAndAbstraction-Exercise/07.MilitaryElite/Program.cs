@@ -1,4 +1,6 @@
-﻿using MilitaryElite.Models;
+﻿using MilitaryElite.Core;
+using MilitaryElite.Core.Interfaces;
+using MilitaryElite.Models;
 using MilitaryElite.Models.Enums;
 using System;
 
@@ -8,9 +10,8 @@ namespace MilitaryElite
     {
         static void Main(string[] args)
         {
-            Private currentPrivate = new Private(1, "Bibi", "Kokov", 100);
-
-            Console.WriteLine(currentPrivate.ToString());
+            IEngine engine = new Engine();
+            engine.Run();
         }
     }
 }
