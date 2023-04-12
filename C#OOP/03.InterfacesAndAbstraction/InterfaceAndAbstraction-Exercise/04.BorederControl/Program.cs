@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BorederControl.Core;
+using System;
 
 namespace BorederControl
 {
@@ -6,7 +7,9 @@ namespace BorederControl
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Engine engine = new Engine();
+
+            engine.Run();
         }
     }
 }

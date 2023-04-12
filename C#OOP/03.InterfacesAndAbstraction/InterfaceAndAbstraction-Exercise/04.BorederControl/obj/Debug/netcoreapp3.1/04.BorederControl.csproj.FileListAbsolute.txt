@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\bin\Debug\netcoreapp3.1\04.BorederControl.exe
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\bin\Debug\netcoreapp3.1\04.BorederControl.deps.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\bin\Debug\netcoreapp3.1\04.BorederControl.runtimeconfig.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\bin\Debug\netcoreapp3.1\04.BorederControl.runtimeconfig.dev.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\bin\Debug\netcoreapp3.1\04.BorederControl.dll
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\bin\Debug\netcoreapp3.1\04.BorederControl.pdb
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\obj\Debug\netcoreapp3.1\04.BorederControl.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\obj\Debug\netcoreapp3.1\04.BorederControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\obj\Debug\netcoreapp3.1\04.BorederControl.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\obj\Debug\netcoreapp3.1\04.BorederControl.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\obj\Debug\netcoreapp3.1\04.BorederControl.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\obj\Debug\netcoreapp3.1\04.BorederControl.dll
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\obj\Debug\netcoreapp3.1\04.BorederControl.pdb
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\04.BorederControl\obj\Debug\netcoreapp3.1\04.BorederControl.genruntimeconfig.cache
