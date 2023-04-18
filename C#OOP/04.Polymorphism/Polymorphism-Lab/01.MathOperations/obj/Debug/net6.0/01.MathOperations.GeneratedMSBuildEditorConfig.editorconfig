@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Operations
-build_property.ProjectDir = C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\Polymorphism-Lab\01.MathOperations\
+build_property.ProjectDir = C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\01.MathOperations\
