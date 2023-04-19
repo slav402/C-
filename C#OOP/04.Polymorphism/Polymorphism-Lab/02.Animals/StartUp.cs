@@ -6,11 +6,16 @@ namespace Animals
     {
         public static void Main()
         {
-            Animal cat = new Cat("Peter", "Whiskas");
-            Animal dog = new Dog("George", "Meat");
-
-            Console.WriteLine(cat.ExplainSelf());
-            Console.WriteLine(dog.ExplainSelf());
+            List<Animal> listOfAnimals = new List<Animal>
+            {
+                new Dog("George", "Meat"),
+                new Cat("Peter", "Whiskas")
+            };
+            
+            foreach (Animal animal in listOfAnimals)
+            {
+                Console.WriteLine(animal.ExplainSelf());
+            }
         }
 
     }

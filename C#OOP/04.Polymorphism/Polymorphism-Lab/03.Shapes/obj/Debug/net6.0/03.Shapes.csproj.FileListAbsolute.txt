@@ -1,0 +1,15 @@
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.exe
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.deps.json
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.runtimeconfig.json
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.dll
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.pdb
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.dll
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\refint\03.Shapes.dll
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.pdb
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.genruntimeconfig.cache
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\ref\03.Shapes.dll
