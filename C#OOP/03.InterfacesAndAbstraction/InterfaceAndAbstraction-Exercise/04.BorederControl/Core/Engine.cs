@@ -45,7 +45,7 @@ namespace BorederControl.Core
             foreach (var person in identifiable)
             {
                 if (person.Id.EndsWith(lastDigits))
-                {
+                 {
                     Console.WriteLine(person.Id);
                 }
             }

@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\bin\Debug\netcoreapp3.1\05.BirthdayCelebration.exe
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\bin\Debug\netcoreapp3.1\05.BirthdayCelebration.deps.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\bin\Debug\netcoreapp3.1\05.BirthdayCelebration.runtimeconfig.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\bin\Debug\netcoreapp3.1\05.BirthdayCelebration.runtimeconfig.dev.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\bin\Debug\netcoreapp3.1\05.BirthdayCelebration.dll
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\bin\Debug\netcoreapp3.1\05.BirthdayCelebration.pdb
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.dll
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.pdb
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\05.BirthdayCelebration\obj\Debug\netcoreapp3.1\05.BirthdayCelebration.genruntimeconfig.cache
