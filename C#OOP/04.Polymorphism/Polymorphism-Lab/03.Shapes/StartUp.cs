@@ -11,6 +11,8 @@ namespace Shapes
 
             Console.WriteLine(rectangle.CalculatePerimeter());
             Console.WriteLine(circle.CalculateArea());
+
+            Console.WriteLine(rectangle.Draw());
         }
 
     }
