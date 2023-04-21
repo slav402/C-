@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.exe
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.deps.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.dev.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.dll
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.pdb
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.dll
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.pdb
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.genruntimeconfig.cache
