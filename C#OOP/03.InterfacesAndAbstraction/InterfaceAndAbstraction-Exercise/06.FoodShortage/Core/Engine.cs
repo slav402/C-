@@ -52,12 +52,12 @@ namespace FoodShortage.Core
                 }
             }
 
-            int sum = 0;
+            int sum = dudes.Values.Sum(x => x.Food);
 
-            foreach (var guy in dudes)
-            {
-                sum += guy.Value.Food;
-            }
+            //foreach (var guy in dudes)
+            //{
+            //    sum += guy.Value.Food;
+            //}
 
             Console.WriteLine(sum);
         }

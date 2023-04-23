@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfacesAndAbstraction-Lab\\02.Cars\\02.Cars.csproj": {}
+    "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\08.CollectionHierarchy\\08.CollectionHierarchy.csproj": {}
   },
   "projects": {
-    "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfacesAndAbstraction-Lab\\02.Cars\\02.Cars.csproj": {
+    "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\08.CollectionHierarchy\\08.CollectionHierarchy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfacesAndAbstraction-Lab\\02.Cars\\02.Cars.csproj",
-        "projectName": "02.Cars",
-        "projectPath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfacesAndAbstraction-Lab\\02.Cars\\02.Cars.csproj",
+        "projectUniqueName": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\08.CollectionHierarchy\\08.CollectionHierarchy.csproj",
+        "projectName": "08.CollectionHierarchy",
+        "projectPath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\08.CollectionHierarchy\\08.CollectionHierarchy.csproj",
         "packagesPath": "C:\\Users\\Salvi Zekov\\.nuget\\packages\\",
-        "outputPath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfacesAndAbstraction-Lab\\02.Cars\\obj\\",
+        "outputPath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\08.CollectionHierarchy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfacesAndAbstraction-Lab\\01.Shapes\\01.Shapes.csproj",
-      "projectName": "01.Shapes",
-      "projectPath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfacesAndAbstraction-Lab\\01.Shapes\\01.Shapes.csproj",
+      "projectUniqueName": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\08.CollectionHierarchy\\08.CollectionHierarchy.csproj",
+      "projectName": "08.CollectionHierarchy",
+      "projectPath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\08.CollectionHierarchy\\08.CollectionHierarchy.csproj",
       "packagesPath": "C:\\Users\\Salvi Zekov\\.nuget\\packages\\",
-      "outputPath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfacesAndAbstraction-Lab\\01.Shapes\\obj\\",
+      "outputPath": "C:\\repo\\CSharp\\C#OOP\\03.InterfacesAndAbstraction\\InterfaceAndAbstraction-Exercise\\08.CollectionHierarchy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
