@@ -11,6 +11,13 @@ namespace CollectionHierarchy.Core
         public void Run()
         {
             AddCollection list = new AddCollection();
+
+            string[] enter = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+
+            for (int i = 0; i < enter.Length; i++)
+            {
+                list.Add(enter[i]);
+            }
         }
     }
 }

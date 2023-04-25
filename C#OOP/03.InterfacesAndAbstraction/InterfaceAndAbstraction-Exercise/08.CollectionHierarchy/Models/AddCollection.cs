@@ -14,11 +14,11 @@ namespace CollectionHierarchy.Models
             listOfItems = new List<string>();
         }
 
-        public int Add(string item)
+        public void Add(string item)
         {
             listOfItems.Add(item);
 
-            return listOfItems.Count-1;
+            Console.Write($"{listOfItems.Count - 1} ");
         }
     }
 }

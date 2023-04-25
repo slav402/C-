@@ -1,12 +1,15 @@
-﻿using System;
+﻿using CollectionHierarchy.Core;
+using System;
 
 namespace CollectionHierarchy
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Engine engine = new Engine();
+            
+            engine.Run();
         }
     }
 }

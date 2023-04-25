@@ -4,8 +4,7 @@ using System.Text;
 
 namespace CollectionHierarchy.Models.Interfacess
 {
-    public interface IAddCollection
+    internal class AddRemoveCollection
     {
-        void Add(string item);
     }
 }
