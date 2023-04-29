@@ -26,6 +26,7 @@ namespace CollectionHierarchy.Models
 
         public void Remove()
         {
+            Console.Write(listOfItems[inputIndex] + " ");
             listOfItems.RemoveAt(inputIndex);
         }
 

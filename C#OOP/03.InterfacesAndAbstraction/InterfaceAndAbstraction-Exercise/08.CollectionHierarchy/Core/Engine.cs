@@ -3,6 +3,7 @@ using CollectionHierarchy.Models;
 using CollectionHierarchy.Models.Interfacess;
 using System;
 using System.Collections.Generic;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
 namespace CollectionHierarchy.Core
@@ -17,35 +18,32 @@ namespace CollectionHierarchy.Core
 
             string[] enter = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
-            for (int i = 0; i < enter.Length; i++)
-            {
-                listAdd.Add(enter[i]);
-            }
-            Console.WriteLine();
-
-            for (int i = 0; i < enter.Length; i++)
-            {
-                listAdddRemove.Add(enter[i]);
-            }
-            Console.WriteLine();
-
-            for (int i = 0; i < enter.Length; i++)
-            {
-                myList.Add(enter[i]);
-            }
-            Console.WriteLine();
+            AddToList(enter, listAdd);
+            AddToList(enter, listAdddRemove);
+            AddToList(enter, myList);
 
             int n = int.Parse(Console.ReadLine());
 
+            RemoveFromList (listAdddRemove, n); 
+            RemoveFromList (myList, n); 
+        }
+
+        private void RemoveFromList(IAddRemoveCollection someList, int n)
+        {
             for (int i = 0; i < n; i++)
             {
-                listAdddRemove.Remove();
-                myList.Remove();
+                someList.Remove();
             }
+            Console.WriteLine();
+        }
 
-            Console.WriteLine(String.Join(" ", listAdddRemove));
-            Console.WriteLine(String.Join(" ", myList));
-
+        private void AddToList(string[] enter, IAddCollection soleList)
+        {
+            for (int i = 0; i < enter.Length; i++)
+            {
+                soleList.Add(enter[i]);
+            }
+            Console.WriteLine();
         }
     }
 }

@@ -24,6 +24,7 @@ namespace CollectionHierarchy.Models.Interfacess
 
         public void Remove()
         {
+            Console.Write($"{listOfItems[listOfItems.Count - 1]} ");
             listOfItems.RemoveAt(listOfItems.Count - 1);
         }
     }
