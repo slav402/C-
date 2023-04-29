@@ -4,8 +4,8 @@ using System.Text;
 
 namespace CollectionHierarchy.Models.Interfacess
 {
-    public interface MyList : IAddRemoveCollection
+    public interface IMyList : IAddRemoveCollection
     {
-        public int Used { get; }
+        void Used();
     }
 }

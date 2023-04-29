@@ -19,6 +19,7 @@ namespace CollectionHierarchy.Models
             listOfItems.Add(item);
 
             Console.Write($"{listOfItems.Count - 1} ");
+
         }
     }
 }
