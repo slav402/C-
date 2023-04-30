@@ -8,7 +8,8 @@ namespace CollectionHierarchy.Models
 {
     public class MyList : IMyList
     {
-        const int inputIndex = 0;
+        private const int addIndex = 0;
+        private const int removeIndex = 0;
 
         private List<string> listOfItems;
 
@@ -19,15 +20,15 @@ namespace CollectionHierarchy.Models
 
         public void Add(string item)
         {
-            listOfItems.Insert(inputIndex, item);
+            listOfItems.Insert(addIndex, item);
 
-            Console.Write($"{inputIndex} ");
+            Console.Write($"{addIndex} ");
         }
 
         public void Remove()
         {
-            Console.Write(listOfItems[inputIndex] + " ");
-            listOfItems.RemoveAt(inputIndex);
+            Console.Write(listOfItems[removeIndex] + " ");
+            listOfItems.RemoveAt(removeIndex);
         }
 
         public void Used()

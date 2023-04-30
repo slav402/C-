@@ -6,7 +6,7 @@ namespace CollectionHierarchy.Models.Interfacess
 {
     public class AddRemoveCollection : IAddRemoveCollection
     {
-        const int inputIndex = 0;
+        private const int inputIndex = 0;
 
         private List<string> listOfItems;
 
@@ -25,6 +25,7 @@ namespace CollectionHierarchy.Models.Interfacess
         public void Remove()
         {
             Console.Write($"{listOfItems[listOfItems.Count - 1]} ");
+
             listOfItems.RemoveAt(listOfItems.Count - 1);
         }
     }

@@ -1,0 +1,14 @@
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.exe
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.deps.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.runtimeconfig.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.runtimeconfig.dev.json
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.dll
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.pdb
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.dll
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.pdb
+C:\repo\CSharp\C#OOP\03.InterfacesAndAbstraction\InterfaceAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.genruntimeconfig.cache
