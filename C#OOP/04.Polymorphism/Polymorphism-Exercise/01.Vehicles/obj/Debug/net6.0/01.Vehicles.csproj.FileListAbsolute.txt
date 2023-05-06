@@ -1,0 +1,15 @@
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.exe
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.deps.json
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.runtimeconfig.json
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.dll
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.pdb
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.dll
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\refint\01.Vehicles.dll
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.pdb
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.genruntimeconfig.cache
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\ref\01.Vehicles.dll

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Vehicles.IO.Interfaces
 {
-    internal interface IReader
+    public interface IReader
     {
+        string ReadLine();
     }
 }

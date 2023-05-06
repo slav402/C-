@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Vehicles.IO.Interfaces
 {
-    internal interface IWriter
+    public interface IWriter
     {
+        void WriteLine(string str);
     }
 }

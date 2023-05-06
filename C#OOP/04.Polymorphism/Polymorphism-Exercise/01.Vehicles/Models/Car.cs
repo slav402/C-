@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Vehicles.Models
 {
-    internal class Car
+    public class Car : Vehicle
     {
+        private const double IncreasrConsuption = 0.9;
+
+        public Car(double fuelQuantity, double fuelConsumption) 
+            : base(fuelQuantity, fuelConsumption, IncreasrConsuption)
+        {
+
+        }
     }
 }

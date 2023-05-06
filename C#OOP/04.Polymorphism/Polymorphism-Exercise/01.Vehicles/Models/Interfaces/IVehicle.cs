@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Vehicles.Models.Interfaces
 {
-    internal interface IVehicle
+    public interface IVehicle
     {
+        double FuelQuantity { get;}
+
+        double FueluelConsumption { get;}
+
+        string Drive(double distance);
+
+        void Refuel(double liters);
     }
 }

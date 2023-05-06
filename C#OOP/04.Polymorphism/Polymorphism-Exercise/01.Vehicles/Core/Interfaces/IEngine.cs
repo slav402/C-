@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Vehicles.Core.Interfaces
 {
-    internal interface IEngine
+    public interface IEngine
     {
+        void Run();
     }
 }
