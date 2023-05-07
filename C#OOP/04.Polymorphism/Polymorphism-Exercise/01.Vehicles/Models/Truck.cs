@@ -15,5 +15,10 @@ namespace Vehicles.Models
         {
 
         }
+
+        public override void Refuel(double liters)
+        {
+            base.Refuel(liters * 0.95);
+        }
     }
 }

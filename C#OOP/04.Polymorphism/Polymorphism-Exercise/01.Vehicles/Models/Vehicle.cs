@@ -34,10 +34,10 @@ namespace Vehicles.Models
 
             FuelQuantity -= currentFuelConsumption * distance;
 
-            return $"Car/Truck travelled {distance} km";
+            return $"{this.GetType().Name} travelled {distance} km";
         }
 
-        public void Refuel(double liters)
+        public virtual void Refuel(double liters)
             => FuelQuantity += liters;
 
         public override string ToString()
