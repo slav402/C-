@@ -1,0 +1,5 @@
+Car needs refueling
+Car travelled 13.5 km
+Truck needs refueling
+Car: 113.05
+Truck: 109.12
