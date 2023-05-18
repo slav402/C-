@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WIldFarm.Core.Interfaces
+namespace WIldFarm.Models.Interfaces
 {
-    public interface IEngine
+    internal interface IFood
     {
-        void Run();
     }
 }

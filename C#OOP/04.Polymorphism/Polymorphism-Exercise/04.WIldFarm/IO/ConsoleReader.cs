@@ -1,7 +1,7 @@
 ﻿using System;
-using Vehicles.IO.Interfaces;
+using WIldFarm.IO.Interfaces;
 
-namespace Vehicles.IO
+namespace WIldFarm.IO
 {
     public class ConsoleReader : IReader
     {

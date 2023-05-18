@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Vehicles.IO.Interfaces
+namespace WIldFarm.IO.Interfaces
 {
     public interface IWriter
     {

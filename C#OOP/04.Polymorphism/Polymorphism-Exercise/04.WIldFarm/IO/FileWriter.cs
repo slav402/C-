@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Vehicles.IO.Interfaces;
+using WIldFarm.IO.Interfaces;
 
-namespace Vehicles.IO
+namespace WIldFarm.IO
 {
     public class FileWriter : IWriter //za pisane vav file
     {
