@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace WIldFarm.Models.Interfaces
 {
-    internal interface IAnimal
+    public interface IAnimal
     {
+        string Name { get; }
+
+        double Weight { get; }
+
+        int FoodEaten { get; }
+
+        string ProduceSound();
+
+        void Eat(IFood food);
     }
 }

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace WIldFarm.Models.Interfaces
 {
-    public interface IFood
+    public interface IMammal
     {
-        int Quantity { get; }
+        string LivingRegion { get; } 
     }
 }

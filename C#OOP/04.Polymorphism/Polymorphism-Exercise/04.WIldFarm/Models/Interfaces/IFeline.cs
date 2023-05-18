@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace WIldFarm.Models.Interfaces
 {
-    public interface IFood
+    internal interface IFeline
     {
-        int Quantity { get; }
     }
 }
