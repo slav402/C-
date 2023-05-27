@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace WIldFarm.Models.Interfaces
 {
-    internal interface IFeline
+    public interface IFeline
     {
+        string Breed { get; }
     }
 }
