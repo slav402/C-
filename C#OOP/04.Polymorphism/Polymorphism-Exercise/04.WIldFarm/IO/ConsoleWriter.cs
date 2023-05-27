@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WIldFarm.IO.Interfaces;
+using WildFarm.IO.Interfaces;
 
-namespace WIldFarm.IO
+namespace WildFarm.IO
 {
     public class ConsoleWriter : IWriter
     {

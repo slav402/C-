@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Vehicles", "01.Vehicles\01.Vehicles.csproj", "{5C7A473A-6FEB-41C3-ACCA-85A75BAF6598}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.WIldFarm", "04.WIldFarm\04.WIldFarm.csproj", "{A246ADB5-78C8-4BF3-937C-2412B0F505DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.WildFarm", "04.WIldFarm\04.WildFarm.csproj", "{A246ADB5-78C8-4BF3-937C-2412B0F505DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

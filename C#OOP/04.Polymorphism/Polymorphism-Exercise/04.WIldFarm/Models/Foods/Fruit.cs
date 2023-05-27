@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WIldFarm.Models.Foods
+namespace WildFarm.Models.Foods
 {
     public class Fruit : Food
     {

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repo\\CSharp\\C#OOP\\04.Polymorphism\\Polymorphism-Exercise\\04.WIldFarm\\04.WIldFarm.csproj": {}
+    "C:\\repo\\CSharp\\C#OOP\\04.Polymorphism\\Polymorphism-Exercise\\04.WIldFarm\\04.WildFarm.csproj": {}
   },
   "projects": {
-    "C:\\repo\\CSharp\\C#OOP\\04.Polymorphism\\Polymorphism-Exercise\\04.WIldFarm\\04.WIldFarm.csproj": {
+    "C:\\repo\\CSharp\\C#OOP\\04.Polymorphism\\Polymorphism-Exercise\\04.WIldFarm\\04.WildFarm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repo\\CSharp\\C#OOP\\04.Polymorphism\\Polymorphism-Exercise\\04.WIldFarm\\04.WIldFarm.csproj",
-        "projectName": "04.WIldFarm",
-        "projectPath": "C:\\repo\\CSharp\\C#OOP\\04.Polymorphism\\Polymorphism-Exercise\\04.WIldFarm\\04.WIldFarm.csproj",
+        "projectUniqueName": "C:\\repo\\CSharp\\C#OOP\\04.Polymorphism\\Polymorphism-Exercise\\04.WIldFarm\\04.WildFarm.csproj",
+        "projectName": "04.WildFarm",
+        "projectPath": "C:\\repo\\CSharp\\C#OOP\\04.Polymorphism\\Polymorphism-Exercise\\04.WIldFarm\\04.WildFarm.csproj",
         "packagesPath": "C:\\Users\\Salvi Zekov\\.nuget\\packages\\",
         "outputPath": "C:\\repo\\CSharp\\C#OOP\\04.Polymorphism\\Polymorphism-Exercise\\04.WIldFarm\\obj\\",
         "projectStyle": "PackageReference",

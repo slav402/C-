@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WIldFarm.Core.Interfaces
+namespace WildFarm.Core.Interfaces
 {
     public interface IEngine
     {

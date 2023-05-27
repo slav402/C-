@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WIldFarm.Models.Interfaces;
+using WildFarm.Models.Interfaces;
 
-namespace WIldFarm.Models.Foods
+namespace WildFarm.Models.Foods
 {
     public class Food : IFood
     {

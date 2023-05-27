@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zDJVeALcbX+TiAeD4bYXkEEe6vZv9gwWZxu4lc1fzwDoC6j2wkvlLJW39+toC+CPu+O+yskD9FHbOfxKcKll+Q==",
+  "dgSpecHash": "8b2p/40gmiTO10yRi78Tva+XKjWWwDMcHq1gbJip41qrLDy4tIG+mQleT/BVuZG8gwVSqmuaHbNq60ssudQ9bg==",
   "success": true,
-  "projectFilePath": "C:\\repo\\CSharp\\C#OOP\\04.Polymorphism\\Polymorphism-Exercise\\04.WIldFarm\\04.WIldFarm.csproj",
+  "projectFilePath": "C:\\repo\\CSharp\\C#OOP\\04.Polymorphism\\Polymorphism-Exercise\\04.WIldFarm\\04.WildFarm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
