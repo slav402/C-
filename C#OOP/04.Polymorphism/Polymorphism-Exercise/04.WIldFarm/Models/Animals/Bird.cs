@@ -7,7 +7,7 @@ using WildFarm.Models.Interfaces;
 
 namespace WildFarm.Models.Animals
 {
-    public abstract class Bird : Animal, IBird
+    public abstract class Bird : Mammal, IBird
     {
         protected Bird(string name, double weight, double wingSize) 
             : base(name, weight)

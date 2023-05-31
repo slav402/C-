@@ -7,9 +7,9 @@ using WildFarm.Models.Interfaces;
 
 namespace WildFarm.Models.Animals
 {
-    public abstract class Animal : IAnimal
+    public abstract class Mammal : IAnimal
     {
-        protected Animal(string name, double weight)
+        protected Mammal(string name, double weight)
         {
             Name = name;
             Weight = weight;

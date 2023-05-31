@@ -1,0 +1,5 @@
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\04.WIldFarm\obj\Debug\net6.0\04.WildFarm.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\04.WIldFarm\obj\Debug\net6.0\04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\04.WIldFarm\obj\Debug\net6.0\04.WildFarm.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\04.WIldFarm\obj\Debug\net6.0\04.WildFarm.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\04.Polymorphism\Polymorphism-Exercise\04.WIldFarm\obj\Debug\net6.0\04.WildFarm.csproj.CoreCompileInputs.cache

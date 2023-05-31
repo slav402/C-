@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WildFarm.Core.Interfaces
 {
-    public interface IEngine
+    public interface IEngine 
     {
         void Run();
     }
