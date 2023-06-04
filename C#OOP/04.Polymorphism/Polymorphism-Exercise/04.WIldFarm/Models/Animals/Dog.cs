@@ -17,7 +17,7 @@ namespace WildFarm.Models.Animals
         {
         }
 
-        public override double WeightMultyplier 
+        protected override double WeightMultyplier 
             => DogWeightMultyplier;
 
         public override IReadOnlyCollection<Type> PreferredFood 
@@ -25,5 +25,10 @@ namespace WildFarm.Models.Animals
 
         public override string ProduceSound()
             => "Woof!";
+
+        public override string ToString()
+        {
+            return base.ToString() + $"{this.Name}, {this.Weight}, {this.LivingRegion}, {this.FoodEaten}]";
+        }
     }
 }

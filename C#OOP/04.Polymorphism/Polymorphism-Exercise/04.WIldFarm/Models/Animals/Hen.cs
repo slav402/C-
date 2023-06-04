@@ -16,7 +16,7 @@ namespace WildFarm.Models.Animals
         {
         }
 
-        public override double WeightMultyplier
+        protected override double WeightMultyplier
             => HenWeightMultyplier;
 
         public override IReadOnlyCollection<Type> PreferredFood

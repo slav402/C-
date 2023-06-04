@@ -7,9 +7,9 @@ using WildFarm.Models.Interfaces;
 
 namespace WildFarm.Models.Animals
 {
-    public abstract class Mammal : IAnimal
+    public abstract class Animal : IAnimal
     {
-        protected Mammal(string name, double weight)
+        protected Animal(string name, double weight)
         {
             Name = name;
             Weight = weight;
@@ -21,7 +21,7 @@ namespace WildFarm.Models.Animals
 
         public int FoodEaten { get; private set; }
 
-        public abstract double WeightMultyplier {get;}
+        protected abstract double WeightMultyplier {get;}
 
         public abstract IReadOnlyCollection<Type> PreferredFood { get; }
 
@@ -29,7 +29,7 @@ namespace WildFarm.Models.Animals
 
         public void Eat(IFood food)
         {
-            if (!PreferredFood.Any(pf => pf.Name == food.GetType().Name))
+            if (!PreferredFood.Any(pf => food.GetType().Name == pf.Name))
             {
                 throw new ArgumentException($"{this.GetType().Name} does not eat {food.GetType().Name}!");
             }
@@ -37,6 +37,11 @@ namespace WildFarm.Models.Animals
             this.Weight += food.Quantity * this.WeightMultyplier;
 
             this.FoodEaten += food.Quantity;
+        }
+
+        public override string ToString()
+        {
+            return $"{GetType().Name} [{this.Name}, ";
         }
 
     }

@@ -28,9 +28,9 @@ namespace WildFarm.Factotiess
                 case "Dog":
                     return new Dog(name, weight, tokens[3]);
                 case "Cat":
-                    return new Cat(name, weight, tokens[3]);
+                    return new Cat(name, weight, tokens[3], tokens[4]);
                 case "Tiger":
-                    return new Tiger(name, weight, tokens[3]);
+                    return new Tiger(name, weight, tokens[3], tokens[4]);
                 default:
                     throw new ArgumentException("Invalid type of animal!");
             }

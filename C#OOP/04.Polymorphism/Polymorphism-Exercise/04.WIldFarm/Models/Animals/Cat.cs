@@ -16,11 +16,11 @@ namespace WildFarm.Models.Animals
         {
         }
 
-        public override double WeightMultyplier
-            => CatWeightMultyplier;
-
         public override IReadOnlyCollection<Type> PreferredFood
             => new HashSet<Type> { typeof(Meat), typeof(Vegetable) };
+
+        protected override double WeightMultyplier
+            => CatWeightMultyplier;
 
         public override string ProduceSound()
             => "Meow";
