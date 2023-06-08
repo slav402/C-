@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using Vehicles.Models;
 
-namespace Vecicles.Models
+namespace Vehicles.Models
 {
     public class Bus : Vehicle
     {
         private const double IncreasrConsuption = 1.4;
 
-        public Bus(double fuelQuantity, double fuelConsumption, double tankCapacity, double increaseConsumption) 
+        public Bus(double fuelQuantity, double fuelConsumption, double tankCapacity) 
             : base(fuelQuantity, fuelConsumption, tankCapacity, IncreasrConsuption)
         {
         }

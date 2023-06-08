@@ -11,16 +11,31 @@ namespace Vehicles.Models
     {
 
         private double increaseConsumption;
+        private double fuelQuantity;
 
         protected Vehicle(double fuelQuantity, double fuelConsumption, double tankCapacity, double increaseConsumption)
         {
+            TankCapacity = tankCapacity;
             FuelQuantity = fuelQuantity;
             FueluelConsumption = fuelConsumption;
-            TankCapacity = tankCapacity;
             this.increaseConsumption = increaseConsumption;
         }
 
-        public double FuelQuantity { get; private set; }
+        public double FuelQuantity 
+        { 
+            get => fuelQuantity; 
+            private set
+            {
+                if (TankCapacity < value )
+                {
+                    fuelQuantity = 0;
+                }
+                else
+                {
+                    fuelQuantity = value;
+                }
+            }
+        }
 
         public double FueluelConsumption { get; private set; }
 
@@ -46,16 +61,17 @@ namespace Vehicles.Models
 
         public virtual void Refuel(double liters)
         {
-            double totalFuelAmount = liters + FuelQuantity;
+            if (liters <= 0)
+            {
+                throw new ArgumentException("Fuel must be a positive number");
+            }
 
-            if (totalFuelAmount > TankCapacity)
+            if (liters + FuelQuantity > TankCapacity)
             {
                 throw new ArgumentException($"Cannot fit {liters} fuel in the tank");
             }
-            else
-            {
-                FuelQuantity += liters;
-            }
+            
+            FuelQuantity += liters;
         }
 
 

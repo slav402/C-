@@ -17,6 +17,11 @@ namespace Vehicles.Models
 
         public override void Refuel(double liters)
         {
+            if (liters + FuelQuantity > TankCapacity)
+            {
+                throw new ArgumentException($"Cannot fit {liters} fuel in the tank");
+            }
+            
             base.Refuel(liters * 0.95);
         }
     }

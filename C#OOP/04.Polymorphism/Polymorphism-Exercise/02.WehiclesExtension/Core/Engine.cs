@@ -65,7 +65,7 @@ namespace Vehicles.Core
             string[] tokens = reader.ReadLine()
                 .Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
-            IVehicle vehicle = vehicleFactory.Create(tokens[0], double.Parse(tokens[1]), double.Parse(tokens[2]), double.Parse(tokens[4]));
+            IVehicle vehicle = vehicleFactory.Create(tokens[0], double.Parse(tokens[1]), double.Parse(tokens[2]), double.Parse(tokens[3]));
 
             return vehicle;
 
@@ -97,7 +97,7 @@ namespace Vehicles.Core
                 double distance = double.Parse(commandTokens[2]);
                 writer.WriteLine(vehicle.Drive(distance, false));
             }
-            else
+            else if (command == "Refuel")
             {
                 double liters = double.Parse(commandTokens[2]);
                 vehicle.Refuel(liters);

@@ -22,7 +22,7 @@ namespace Vehicles.Factotiess
                     return new Truck(fuelQuantity, fuelConsumption, tankCapacity);
 
                 case "Bus":
-                    return new Truck(fuelQuantity, fuelConsumption, tankCapacity);
+                    return new Bus(fuelQuantity, fuelConsumption, tankCapacity);
 
                 default:
                     throw new ArgumentException("Invalid vehicle type");
