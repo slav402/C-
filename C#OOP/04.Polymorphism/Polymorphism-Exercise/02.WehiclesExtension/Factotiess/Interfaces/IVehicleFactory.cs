@@ -9,6 +9,6 @@ namespace Vehicles.Factotiess.Interfaces
 {
     public interface IVehicleFactory
     {
-        IVehicle Create(string type, double fuelQuantity, double fuelConsumption);
+        IVehicle Create(string type, double fuelQuantity, double fuelConsumption, double tankCapacity);
     }
 }

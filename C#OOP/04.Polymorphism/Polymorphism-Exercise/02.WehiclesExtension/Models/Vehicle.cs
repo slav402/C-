@@ -26,9 +26,13 @@ namespace Vehicles.Models
 
         public double TankCapacity { get; private set; }
 
-        public string Drive(double distance)
+        public string Drive(double distance, bool isIncreaseConsumption = true)
         {
-            double currentFuelConsumption = FueluelConsumption + increaseConsumption;
+            double currentFuelConsumption = isIncreaseConsumption
+                ? FueluelConsumption + increaseConsumption 
+                : FueluelConsumption;
+
+
 
             if (FuelQuantity < currentFuelConsumption * distance)
             {

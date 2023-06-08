@@ -32,6 +32,7 @@ namespace Vehicles.Core
         {
             vehicles.Add(CreateVehicle());
             vehicles.Add(CreateVehicle());
+            vehicles.Add(CreateVehicle());
 
             int n = int.Parse(reader.ReadLine());
 
@@ -64,7 +65,7 @@ namespace Vehicles.Core
             string[] tokens = reader.ReadLine()
                 .Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
-            IVehicle vehicle = vehicleFactory.Create(tokens[0], double.Parse(tokens[1]), double.Parse(tokens[2]));
+            IVehicle vehicle = vehicleFactory.Create(tokens[0], double.Parse(tokens[1]), double.Parse(tokens[2]), double.Parse(tokens[4]));
 
             return vehicle;
 
@@ -90,6 +91,11 @@ namespace Vehicles.Core
             {
                 double distance = double.Parse(commandTokens[2]);
                 writer.WriteLine(vehicle.Drive(distance));
+            }
+            else if (command == "DriveEmpty")
+            {
+                double distance = double.Parse(commandTokens[2]);
+                writer.WriteLine(vehicle.Drive(distance, false));
             }
             else
             {
