@@ -24,7 +24,7 @@ namespace Raiding.Factories
                 case "Warrior":
                     return new Warrior(name, 100);
                 default:
-                    throw new ArgumentException("Invalid hero!"); ;
+                    throw new ArgumentException("Invalid hero!");
             }
         }
     }
