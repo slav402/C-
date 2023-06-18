@@ -37,9 +37,42 @@ namespace Raiding.Engine
                 string heroType = reader.ReadLine();
                 string heroName = reader.ReadLine();
 
+                try
+                {
+                    IBaseHero currentHero = baseHeroFactories.CreateHero(heroName, heroType);
+                    riderSquad.Add(currentHero);
+;
+                }
+                catch (ArgumentException ex)
+                {
+                    i--;
+                    writer.WriteLine(ex.Message);
+                }
+                catch (Exception)
+                {
+                    throw;
+                }
+            }
 
+            int bossPower = int.Parse(reader.ReadLine());
 
+            int squadPower = 0;
+
+            foreach (var hero in riderSquad)
+            {
+                writer.WriteLine(hero.CastAbility());
+                squadPower += hero.Power;
+            }
+
+            if (bossPower > squadPower)
+            {
+                writer.WriteLine("Defeat...");
+            }
+            else
+            {
+                writer.WriteLine("Victory!");
             }
         }
+
     }
 }
