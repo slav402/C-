@@ -7,7 +7,7 @@ namespace _06.SomeTest
         static void Main(string[] args)
         {
             Rectangle recOne = new Rectangle(2, 4, "red");
-            Figure someFigure = new Figure(4, 6);
+            //Figure someFigure = new Figure(4, 6);
 
             recOne.PrintArea();
             Console.WriteLine(recOne.Color);
@@ -16,8 +16,13 @@ namespace _06.SomeTest
             triangel.PrintArea();
         }
 
-        public class Figure
+        public abstract class Figure
         {
+            public Figure()
+            {
+
+            }
+
             public Figure(int width, int height)
             {
                 this.Height = height;
@@ -44,7 +49,7 @@ namespace _06.SomeTest
 
         public class Triangel : Figure
         {
-            public Triangel(int width, int height) 
+            public Triangel(int width, int height)
                 : base(width, height)
             {
             }

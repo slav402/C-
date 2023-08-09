@@ -39,6 +39,15 @@ namespace WildFarm.Core
 
         public void Run()
         {
+
+            //for (int i = 0; i < 100000; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+
+
+
             string command;
             while ((command = reader.ReadLine()) != "End")
             {

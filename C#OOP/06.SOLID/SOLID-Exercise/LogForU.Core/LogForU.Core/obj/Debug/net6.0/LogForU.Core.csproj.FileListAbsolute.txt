@@ -1,0 +1,12 @@
+C:\repo\CSharp\C#OOP\06.SOLID\SOLID-Exercise\LogForU.Core\LogForU.Core\bin\Debug\net6.0\LogForU.Core.deps.json
+C:\repo\CSharp\C#OOP\06.SOLID\SOLID-Exercise\LogForU.Core\LogForU.Core\bin\Debug\net6.0\LogForU.Core.dll
+C:\repo\CSharp\C#OOP\06.SOLID\SOLID-Exercise\LogForU.Core\LogForU.Core\bin\Debug\net6.0\LogForU.Core.pdb
+C:\repo\CSharp\C#OOP\06.SOLID\SOLID-Exercise\LogForU.Core\LogForU.Core\obj\Debug\net6.0\LogForU.Core.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\06.SOLID\SOLID-Exercise\LogForU.Core\LogForU.Core\obj\Debug\net6.0\LogForU.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\06.SOLID\SOLID-Exercise\LogForU.Core\LogForU.Core\obj\Debug\net6.0\LogForU.Core.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\06.SOLID\SOLID-Exercise\LogForU.Core\LogForU.Core\obj\Debug\net6.0\LogForU.Core.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\06.SOLID\SOLID-Exercise\LogForU.Core\LogForU.Core\obj\Debug\net6.0\LogForU.Core.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\06.SOLID\SOLID-Exercise\LogForU.Core\LogForU.Core\obj\Debug\net6.0\LogForU.Core.dll
+C:\repo\CSharp\C#OOP\06.SOLID\SOLID-Exercise\LogForU.Core\LogForU.Core\obj\Debug\net6.0\refint\LogForU.Core.dll
+C:\repo\CSharp\C#OOP\06.SOLID\SOLID-Exercise\LogForU.Core\LogForU.Core\obj\Debug\net6.0\LogForU.Core.pdb
+C:\repo\CSharp\C#OOP\06.SOLID\SOLID-Exercise\LogForU.Core\LogForU.Core\obj\Debug\net6.0\ref\LogForU.Core.dll
