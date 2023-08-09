@@ -1,0 +1,15 @@
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\bin\Debug\net6.0\TypeClass2.exe
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\bin\Debug\net6.0\TypeClass2.deps.json
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\bin\Debug\net6.0\TypeClass2.runtimeconfig.json
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\bin\Debug\net6.0\TypeClass2.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\bin\Debug\net6.0\TypeClass2.pdb
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\obj\Debug\net6.0\TypeClass2.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\obj\Debug\net6.0\TypeClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\obj\Debug\net6.0\TypeClass2.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\obj\Debug\net6.0\TypeClass2.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\obj\Debug\net6.0\TypeClass2.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\obj\Debug\net6.0\TypeClass2.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\obj\Debug\net6.0\refint\TypeClass2.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\obj\Debug\net6.0\TypeClass2.pdb
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\obj\Debug\net6.0\TypeClass2.genruntimeconfig.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\TypeClass2\obj\Debug\net6.0\ref\TypeClass2.dll

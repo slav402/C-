@@ -1,0 +1,15 @@
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\bin\Debug\net6.0\WichFieldYouWantToRead.exe
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\bin\Debug\net6.0\WichFieldYouWantToRead.deps.json
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\bin\Debug\net6.0\WichFieldYouWantToRead.runtimeconfig.json
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\bin\Debug\net6.0\WichFieldYouWantToRead.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\bin\Debug\net6.0\WichFieldYouWantToRead.pdb
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\obj\Debug\net6.0\WichFieldYouWantToRead.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\obj\Debug\net6.0\WichFieldYouWantToRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\obj\Debug\net6.0\WichFieldYouWantToRead.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\obj\Debug\net6.0\WichFieldYouWantToRead.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\obj\Debug\net6.0\WichFieldYouWantToRead.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\obj\Debug\net6.0\WichFieldYouWantToRead.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\obj\Debug\net6.0\refint\WichFieldYouWantToRead.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\obj\Debug\net6.0\WichFieldYouWantToRead.pdb
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\obj\Debug\net6.0\WichFieldYouWantToRead.genruntimeconfig.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\WichFieldYouWantToRead\obj\Debug\net6.0\ref\WichFieldYouWantToRead.dll
