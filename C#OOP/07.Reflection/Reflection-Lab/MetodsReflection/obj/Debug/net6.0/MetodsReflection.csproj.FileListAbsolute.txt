@@ -1,0 +1,15 @@
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\bin\Debug\net6.0\MetodsReflection.exe
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\bin\Debug\net6.0\MetodsReflection.deps.json
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\bin\Debug\net6.0\MetodsReflection.runtimeconfig.json
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\bin\Debug\net6.0\MetodsReflection.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\bin\Debug\net6.0\MetodsReflection.pdb
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\obj\Debug\net6.0\MetodsReflection.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\obj\Debug\net6.0\MetodsReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\obj\Debug\net6.0\MetodsReflection.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\obj\Debug\net6.0\MetodsReflection.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\obj\Debug\net6.0\MetodsReflection.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\obj\Debug\net6.0\MetodsReflection.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\obj\Debug\net6.0\refint\MetodsReflection.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\obj\Debug\net6.0\MetodsReflection.pdb
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\obj\Debug\net6.0\MetodsReflection.genruntimeconfig.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\MetodsReflection\obj\Debug\net6.0\ref\MetodsReflection.dll

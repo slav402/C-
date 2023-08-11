@@ -1,0 +1,15 @@
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\bin\Debug\net6.0\GetFields.exe
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\bin\Debug\net6.0\GetFields.deps.json
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\bin\Debug\net6.0\GetFields.runtimeconfig.json
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\bin\Debug\net6.0\GetFields.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\bin\Debug\net6.0\GetFields.pdb
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\obj\Debug\net6.0\GetFields.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\obj\Debug\net6.0\GetFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\obj\Debug\net6.0\GetFields.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\obj\Debug\net6.0\GetFields.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\obj\Debug\net6.0\GetFields.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\obj\Debug\net6.0\GetFields.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\obj\Debug\net6.0\refint\GetFields.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\obj\Debug\net6.0\GetFields.pdb
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\obj\Debug\net6.0\GetFields.genruntimeconfig.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\GetFields\obj\Debug\net6.0\ref\GetFields.dll

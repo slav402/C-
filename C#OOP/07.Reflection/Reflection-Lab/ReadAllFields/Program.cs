@@ -20,6 +20,8 @@ void PrintAllFields(object obj)
         Console.WriteLine($"IsPublic: {field.IsPublic}");
         Console.WriteLine($"IsStatic: {field.IsStatic}");
         Console.WriteLine($"{field.Name} - {field.GetValue(obj)}");
+        Type fieldType = field.FieldType;
+        Console.WriteLine($"FieldType: {fieldType}");
         Console.WriteLine();
     }
 }

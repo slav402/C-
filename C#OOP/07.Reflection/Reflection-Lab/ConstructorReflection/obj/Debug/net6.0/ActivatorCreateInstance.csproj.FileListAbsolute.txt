@@ -1,0 +1,15 @@
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\bin\Debug\net6.0\ActivatorCreateInstance.exe
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\bin\Debug\net6.0\ActivatorCreateInstance.deps.json
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\bin\Debug\net6.0\ActivatorCreateInstance.runtimeconfig.json
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\bin\Debug\net6.0\ActivatorCreateInstance.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\bin\Debug\net6.0\ActivatorCreateInstance.pdb
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\obj\Debug\net6.0\refint\ActivatorCreateInstance.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.pdb
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\obj\Debug\net6.0\ActivatorCreateInstance.genruntimeconfig.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\ConstructorReflection\obj\Debug\net6.0\ref\ActivatorCreateInstance.dll

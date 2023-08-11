@@ -1,0 +1,15 @@
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\bin\Debug\net6.0\EnumBinary.exe
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\bin\Debug\net6.0\EnumBinary.deps.json
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\bin\Debug\net6.0\EnumBinary.runtimeconfig.json
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\bin\Debug\net6.0\EnumBinary.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\bin\Debug\net6.0\EnumBinary.pdb
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\obj\Debug\net6.0\EnumBinary.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\obj\Debug\net6.0\EnumBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\obj\Debug\net6.0\EnumBinary.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\obj\Debug\net6.0\EnumBinary.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\obj\Debug\net6.0\EnumBinary.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\obj\Debug\net6.0\EnumBinary.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\obj\Debug\net6.0\refint\EnumBinary.dll
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\obj\Debug\net6.0\EnumBinary.pdb
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\obj\Debug\net6.0\EnumBinary.genruntimeconfig.cache
+C:\repo\CSharp\C#OOP\07.Reflection\Reflection-Lab\EnumBinary\obj\Debug\net6.0\ref\EnumBinary.dll
