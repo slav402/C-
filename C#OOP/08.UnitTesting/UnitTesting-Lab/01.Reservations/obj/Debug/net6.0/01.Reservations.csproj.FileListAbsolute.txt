@@ -1,0 +1,15 @@
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\bin\Debug\net6.0\01.Reservations.exe
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\bin\Debug\net6.0\01.Reservations.deps.json
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\bin\Debug\net6.0\01.Reservations.runtimeconfig.json
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\bin\Debug\net6.0\01.Reservations.dll
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\bin\Debug\net6.0\01.Reservations.pdb
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\obj\Debug\net6.0\01.Reservations.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\obj\Debug\net6.0\01.Reservations.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\obj\Debug\net6.0\01.Reservations.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\obj\Debug\net6.0\01.Reservations.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\obj\Debug\net6.0\01.Reservations.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\obj\Debug\net6.0\01.Reservations.dll
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\obj\Debug\net6.0\refint\01.Reservations.dll
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\obj\Debug\net6.0\01.Reservations.pdb
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\obj\Debug\net6.0\01.Reservations.genruntimeconfig.cache
+C:\repo\CSharp\C#OOP\08.UnitTesting\UnitTesting-Lab\01.Reservations\obj\Debug\net6.0\ref\01.Reservations.dll
