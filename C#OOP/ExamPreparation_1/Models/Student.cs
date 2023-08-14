@@ -10,6 +10,13 @@ namespace UniversityCompetition.Models
 {
     public class Student : IStudent
     {
+        public Student(int studentId, string firstName, string lastName)
+        {
+            Id = studentId;
+            FirstName = firstName;
+            LastName = lastName;
+        }
+
         private int id;
 
         public int Id
@@ -48,25 +55,30 @@ namespace UniversityCompetition.Models
             }
         }
 
-        private IReadOnlyCollection<int> coveredExams;
+        private List<int> coveredExams;
 
         public IReadOnlyCollection<int> CoveredExams
         {
-            get { return coveredExams; }
-            set { coveredExams = value; }
+            get { return coveredExams.AsReadOnly(); }
         }
 
 
-        public IUniversity University => throw new NotImplementedException();
+        private IUniversity university;
+
+        public IUniversity University
+        {
+            get { return university; }
+            private set { university = value; }
+        }
 
         public void CoverExam(ISubject subject)
         {
-            throw new NotImplementedException();
+            coveredExams.Add(subject.Id);
         }
 
         public void JoinUniversity(IUniversity university)
         {
-            throw new NotImplementedException();
+            this.university = university;
         }
     }
 }

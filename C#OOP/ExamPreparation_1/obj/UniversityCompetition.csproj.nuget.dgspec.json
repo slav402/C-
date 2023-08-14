@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repo\\CSharp\\C#OOP\\ExamPreparation_1\\Problem 1\\UniversityCompetition.csproj": {}
+    "C:\\repo\\CSharp\\C#OOP\\ExamPreparation_1\\UniversityCompetition.csproj": {}
   },
   "projects": {
-    "C:\\repo\\CSharp\\C#OOP\\ExamPreparation_1\\Problem 1\\UniversityCompetition.csproj": {
+    "C:\\repo\\CSharp\\C#OOP\\ExamPreparation_1\\UniversityCompetition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repo\\CSharp\\C#OOP\\ExamPreparation_1\\Problem 1\\UniversityCompetition.csproj",
+        "projectUniqueName": "C:\\repo\\CSharp\\C#OOP\\ExamPreparation_1\\UniversityCompetition.csproj",
         "projectName": "UniversityCompetition",
-        "projectPath": "C:\\repo\\CSharp\\C#OOP\\ExamPreparation_1\\Problem 1\\UniversityCompetition.csproj",
+        "projectPath": "C:\\repo\\CSharp\\C#OOP\\ExamPreparation_1\\UniversityCompetition.csproj",
         "packagesPath": "C:\\Users\\Salvi Zekov\\.nuget\\packages\\",
-        "outputPath": "C:\\repo\\CSharp\\C#OOP\\ExamPreparation_1\\Problem 1\\obj\\",
+        "outputPath": "C:\\repo\\CSharp\\C#OOP\\ExamPreparation_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
