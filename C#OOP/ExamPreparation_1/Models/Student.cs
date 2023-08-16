@@ -15,6 +15,7 @@ namespace UniversityCompetition.Models
             Id = studentId;
             FirstName = firstName;
             LastName = lastName;
+            coveredExams = new List<int>();
         }
 
         private int id;
