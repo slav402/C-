@@ -10,6 +10,8 @@ namespace UniversityCompetition.Models
 {
     public class University : IUniversity
     {
+        private string[] allowedCategories = new string[] { "Technical", "Economical", "Humanity" };
+
         private int id;
 
         public int Id
@@ -33,9 +35,38 @@ namespace UniversityCompetition.Models
             }
         }
 
-        public string Category => throw new NotImplementedException();
+        private string category;
 
-        public int Capacity => throw new NotImplementedException();
+        public string Category
+        {
+            get { return category; }
+            set
+
+            {
+                if (allowedCategories.Contains(value))
+                {
+                    category = value;
+                }
+
+                throw new ArgumentException(String.Format(ExceptionMessages.CategoryNotAllowed, value));
+            }
+        }
+
+        private int capacity;
+
+        public int Capacity
+        {
+            get { return capacity; }
+            private set 
+            {
+                if (capacity < 0)
+                {
+                    throw new ArgumentException(ExceptionMessages.CapacityNegative);
+                }
+
+                capacity = value; 
+            }
+        }
 
         public IReadOnlyCollection<int> RequiredSubjects => throw new NotImplementedException();
     }
