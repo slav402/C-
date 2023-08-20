@@ -68,6 +68,11 @@ namespace UniversityCompetition.Models
             }
         }
 
-        public IReadOnlyCollection<int> RequiredSubjects => throw new NotImplementedException();
+        private List<int> requaredSubject;
+
+        public IReadOnlyCollection<int> RequiredSubjects
+        {
+            get { return requaredSubject.AsReadOnly(); } 
+        }
     }
 }
