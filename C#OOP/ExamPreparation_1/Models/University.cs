@@ -10,6 +10,16 @@ namespace UniversityCompetition.Models
 {
     public class University : IUniversity
     {
+        public University(int universityId, string universityName, string category, int capacity, ICollection<int> requiredSubjects
+)
+        {
+            Id = universityId;
+            Name = universityName;
+            Category = category;
+            Capacity = capacity;
+            this.requaredSubject = requiredSubjects.ToList();
+        }
+
         private string[] allowedCategories = new string[] { "Technical", "Economical", "Humanity" };
 
         private int id;
