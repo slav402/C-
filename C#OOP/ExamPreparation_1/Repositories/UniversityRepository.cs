@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UniversityCompetition.Models;
 using UniversityCompetition.Models.Contracts;
 using UniversityCompetition.Repositories.Contracts;
 
@@ -26,7 +27,9 @@ namespace UniversityCompetition.Repositories
 
         public void AddModel(IUniversity model)
         {
-            models.Add(model);
+            University university = new University(models.Count + 1, model.Name, model.Category, model.Capacity, model.RequiredSubjects.ToList());
+
+            models.Add(university);
         }
 
         public IUniversity FindById(int id)

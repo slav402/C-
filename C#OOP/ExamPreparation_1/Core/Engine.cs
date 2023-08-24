@@ -18,7 +18,7 @@
         {
             this.reader = new Reader();
             this.writer = new Writer();
-            //this.controller = new Controller();
+            this.controller = new Controller();
         }
 
         public void Run()
@@ -80,7 +80,7 @@
 
                     writer.WriteLine(result);
                 }
-                catch (Exception ex)
+                catch (ArgumentException ex)
                 {
                     writer.WriteLine(ex.Message);
                 }

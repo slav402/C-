@@ -23,3 +23,28 @@ C:\repo\CSharp\C#OOP\ExamPreparation_1\Problem 1\obj\Debug\net6.0\refint\Univers
 C:\repo\CSharp\C#OOP\ExamPreparation_1\Problem 1\obj\Debug\net6.0\UniversityCompetition.pdb
 C:\repo\CSharp\C#OOP\ExamPreparation_1\Problem 1\obj\Debug\net6.0\UniversityCompetition.genruntimeconfig.cache
 C:\repo\CSharp\C#OOP\ExamPreparation_1\Problem 1\obj\Debug\net6.0\ref\UniversityCompetition.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\UniversityCompetition.exe
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\UniversityCompetition.deps.json
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\UniversityCompetition.runtimeconfig.json
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\UniversityCompetition.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\UniversityCompetition.pdb
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\obj\Debug\net6.0\UniversityCompetition.csproj.AssemblyReference.cache
+C:\repo\CSharp\C#OOP\ExamPreparation_1\obj\Debug\net6.0\UniversityCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CSharp\C#OOP\ExamPreparation_1\obj\Debug\net6.0\UniversityCompetition.AssemblyInfoInputs.cache
+C:\repo\CSharp\C#OOP\ExamPreparation_1\obj\Debug\net6.0\UniversityCompetition.AssemblyInfo.cs
+C:\repo\CSharp\C#OOP\ExamPreparation_1\obj\Debug\net6.0\UniversityCompetition.csproj.CoreCompileInputs.cache
+C:\repo\CSharp\C#OOP\ExamPreparation_1\obj\Debug\net6.0\UniversityCompetition.csproj.CopyComplete
+C:\repo\CSharp\C#OOP\ExamPreparation_1\obj\Debug\net6.0\UniversityCompetition.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\obj\Debug\net6.0\refint\UniversityCompetition.dll
+C:\repo\CSharp\C#OOP\ExamPreparation_1\obj\Debug\net6.0\UniversityCompetition.pdb
+C:\repo\CSharp\C#OOP\ExamPreparation_1\obj\Debug\net6.0\UniversityCompetition.genruntimeconfig.cache
+C:\repo\CSharp\C#OOP\ExamPreparation_1\obj\Debug\net6.0\ref\UniversityCompetition.dll

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using UniversityCompetition.Models;
 using UniversityCompetition.Models.Contracts;
 using UniversityCompetition.Repositories.Contracts;
 
@@ -27,7 +28,8 @@ namespace UniversityCompetition.Repositories
 
         public void AddModel(IStudent model)
         {
-            models.Add(model);
+            Student student = new Student(models.Count+1, model.FirstName, model.LastName);
+            models.Add(student);
         }
 
         public IStudent FindById(int id)
